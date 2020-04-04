@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Herzlich Willkommen
 image: /img/home-jumbotron.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Was bieten wir Dir?
+subheading: beim TV Unzenberg / Heinzenbach e.V.
 mainpitch:
-  title: Why Kaldi
+  title: Der TV Unzenberg / Heinzenbach e.V.
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
