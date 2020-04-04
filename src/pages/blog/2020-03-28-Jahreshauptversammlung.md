@@ -6,7 +6,7 @@ description: Die Jahreshauptversammlung am 28.03.2020 ist abgesagt.
 featuredpost: true
 featuredimage: /img/goalie-2980015_640.jpg
 tags:
-  - Jahreshauptversammlung
+  - Jahreshauptversammlung Corona
 ---
 Liebe Vereinsfreunde, 
 
