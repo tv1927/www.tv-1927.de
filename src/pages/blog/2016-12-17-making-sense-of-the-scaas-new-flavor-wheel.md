@@ -16,7 +16,7 @@ Wir werden euch informieren, wenn wir einen neuen Termin gefunden haben.
 
 Der Vorstand.
 
-![Ball am Spielfeldrand](/img/goalie-2980015_1920.jpg "Die Jahreshauptversammlung am 28.03.2020 ist abgesagt.")
+![](/img/goalie-2980015_1920.jpg)
 
 *<br />*
 
