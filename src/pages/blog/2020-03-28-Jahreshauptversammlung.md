@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Absage Jahreshauptversammlung
-date: 2020-04-04T07:00:00.000Z
+date: 2020-03-07T08:00:00.000Z
 description: Die Jahreshauptversammlung am 28.03.2020 ist abgesagt.
 featuredpost: true
 featuredimage: /img/goalie-2980015_640.jpg
