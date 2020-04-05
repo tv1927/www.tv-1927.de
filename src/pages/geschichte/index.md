@@ -1,9 +1,9 @@
 ---
-templateKey: 'vorstand-page'
-path: /vorstand
-title: Der Vorstand
+templateKey: 'about-page'
+path: /geschichte
+title: Geschichte des Turnvereins
 ---
-### Super Vorstand
+### Satz Kaffee
 Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
 
 ### Single origin
