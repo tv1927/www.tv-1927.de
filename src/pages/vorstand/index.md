@@ -1,5 +1,5 @@
 ---
-templateKey: 'vorstand-page'
+templateKey: 'about-page'
 path: /vorstand
 title: Der Vorstand
 ---
