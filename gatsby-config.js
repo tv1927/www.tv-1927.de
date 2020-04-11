@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'TV 1927 Unzenberg / Heinzenbach e.V.',
+    title: 'Gatsby + Netlify CMS Starter',
     description:
-      'Der Turnverein der Gemeinden Unzenberg und Heinzenbach, gegründet 1927.',
+      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
