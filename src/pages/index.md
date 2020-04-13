@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Herzlich Willkommen
-image: /img/home-jumbotron.jpg
+image: /img/home-jumbotron.png
 heading: Was bieten wir?
 subheading: beim TV Unzenberg / Heinzenbach e.V.
 mainpitch:
