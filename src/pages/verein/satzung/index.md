@@ -5,8 +5,6 @@ title: Vereinssatzung
 ---
 **§ 1 - Name, Rechtsform und Sitz**
 
-<!--StartFragment-->
-
 Der am 23.01.1927 in Unzenberg gegründete Verein führt den Namen “Turnverein 1927 Unzenberg / Heinzenbach e.V.“. Er ist in das Vereinsregister beim Amtsgericht Bad Kreuznach (Register-Nummer VR 562) eingetragen. Der Verein hat seinen Sitz in Unzenberg.Die Vereinsfarben sind grün-schwarz-gold.
 
 **§ 2 - Geschäftsjahr**
@@ -36,8 +34,6 @@ Mit der Anmeldung unterwirft sich jedes Mitglied den Bestimmungen dieser Satzung
 **§ 6 - Beendigung der Mitgliedschaft**
 
 Die Mitgliedschaft erlischt durch Tod, freiwilligen Austritt oder durch Ausschluss aus dem Verein. Die Austrittserklärung ist schriftlich an den Vorstand zu richten. Der Austritt ist nur zum Schluss eines Kalendervierteljahres unter Einhaltung einer Frist von zwei Wochen zulässig. Bei Abmeldung auf Grund von Wohnungswechsel entfällt diese Frist. In diesem Falle ist auch der Austritt zum Ende des Monats möglich. Etwaige Verpflichtungen gegenüber dem Verein sind bis zum Ablauf des laufenden Geschäftsjahres zu erfüllen.
-
-
 
 1. wegen Nichterfüllung satzungsgemäßer Verpflichtungen
 2. wegen Nichtbefolgung von Anordnungen der Vereinsleitung
@@ -150,11 +146,11 @@ Gegen Mitglieder, die gegen die Satzung oder gegen Anordnungen der Vereinsorgane
 
 Für Schäden, gleich welcher Art, die einem Vereinsmitglied aus der Teilnahme an den Leibesübungen oder durch Benutzung der übrigen Vereinseinrichtungen entstanden sind, haftet der Verein nur, wenn einem Organmitglied oder einer sonstigen Person, für die der Verein nach den Vorschriften des bürgerlichen Rechts einzustehen hat, Vorsatz oder grobe Fahrlässigkeit zu Last fällt.
 
-
-
 **§ 21 - Auflösung des Vereins**
 
 1. Die Auflösung des Vereins kann nur in einer zu diesem Zweck einberufenen Mitgliederversammlung erfolgen. Zur Auflösung ist eine 7/8 Mehrheit der anwesenden stimmberechtigten Mitglieder erforderlich. Die Abstimmung über die Auflösung ist namentlich vorzunehmen.
 2. Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall seines bisherigen Zweckes, fällt sein Vermögen an die Ortsgemeinde Unzenberg, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
 
-Die vorstehende Satzung wurde von der außerordentlichen Mitgliederversammlung am 12. Mai 2007 genehmigt.Unzenberg, im Mai 2007
+Die vorstehende Satzung wurde von der außerordentlichen Mitgliederversammlung am 12. Mai 2007 genehmigt.
+
+Unzenberg, im Mai 2007
