@@ -1,19 +1,21 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /impressum
 title: Impressum
 ---
-### Do guckste
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+TV 1927 Unzenberg / Heinzenbach e. V.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+&#8291;1. Vorsitzender: Willi Henn, Hochstr. 2, 55483 Heinzenbach
+E-Mail: info@tv-1927.de
+Telefon: +49 151-40021326
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Vertretungsberechtigter Vorstand: Willi Henn
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Registergericht: Amtsgericht Bad Kreuznach / Registernummer: VR 562
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Inhaltlicher Verantwortlicher gemäß § 55 Abs. 2 RStV: Willi Henn
+
+### Haftungshinweis: 
+Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+Bitte beachten Sie auch unsere Hinweise zum [Datenschutz](/datenschutz).
