@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 path: /verein/satzung
-title: Vereinssatzung
+title: Satzung des TV Unzenberg / Heinzenbach e.V.
 ---
 **§ 1 - Name, Rechtsform und Sitz**
 
@@ -42,7 +42,6 @@ Die Mitgliedschaft erlischt durch Tod, freiwilligen Austritt oder durch Ausschlu
 5. wegen groben unsportlichen Verhaltens
 6. wegen unehrenhafter Handlungen.
 
-\
 **§ 7 - Eintrittskosten, Mitgliedsbeiträge**
 
 Der Eintritt in den Verein ist gebührenfrei. Der Mitgliedsbeitrag wird alljährlich von der Jahreshauptversammlung festgelegt. Im Bedarfsfall kann die Jahreshauptversammlung die Erhebung eines außerordentlichen Beitrages mit einfacher Mehrheit beschließen. Familien zahlen maximal den zweifachen Beitrag ordentlicher Mitglieder. In diesem Fall sind jugendliche Familienmitglieder sowie ordentliche Familienmitglieder bis zur Vollendung des 25. Lebensjahres - die ihren Lebensunterhalt noch nicht eigenständig bestreiten, beitragsfrei. In Zweifelsfällen entscheidet der Vorstand.
@@ -53,15 +52,14 @@ Alle ordentlichen- und Ehrenmitglieder sind berechtigt, an der Willensbildung im
 
 Die Mitglieder des Vereins sind weiter verpflichtet, die Interessen des Vereins nach Kräften zu fördern und alles zu unterlassen, wodurch das Ansehen und der Zweck des Vereins gefährdet werden könnte. Wesentliche Änderungen, insbesondere Wechsel des Wohnorts, Änderung der Bankverbindung, Beendigung von Studium und Ausbildung, sind dem Vorstand unverzüglich anzuzeigen. Bei Nichtbeachtung sind dem Verein die daraus entstehenden Kosten vom jeweiligen Mitglied zu erstatten.
 
-**§ 9 - Organe des Vereins**\
-\
+**§ 9 - Organe des Vereins**
+
 Organe des Vereins sind:
 
 1. die Jahreshauptversammlung
 2. die Mitgliederversammlung
 3. der Vorstand.
 
-\
 **§ 10 - Jahreshauptversammlung**
 
 Die Jahreshauptversammlung entscheidet mit Stimmenmehrheit der anwesenden, stimmberechtigten Mitglieder. Bei Stimmengleichheit entscheidet die Stimme des 1. Vorsitzenden. Grundsätzlich haben Jugendliche Mitglieder in der Jahreshauptversammlung und bei Wahlen des Vereins kein Stimmrecht. Dies gilt jedoch nicht bei der Wahl zur jeweiligen sportlichen Abteilungsleitung (Fußball, Turn-/ Tanz- und Leichtathletik sowie Kegeln). Hier haben Jugendliche vom vollendeten 14. bis zum 18. Lebensjahr - soweit sie der jeweiligen Abteilung auch tatsächlich zugehörig sind - Stimmrecht. Bei Satzungsänderungen ist die 2/3 Mehrheit der erschienenen stimmberechtigten Mitglieder erforderlich. Bei Abstimmung über außerordentliche Vorhaben des Vereins, welche den Verein in Bezug auf seine weitere Existenzfähigkeit berühren, kann der Vorstand eine größere als einfache Mehrheit fordern.
@@ -73,20 +71,20 @@ Die Jahreshauptversammlung entscheidet mit Stimmenmehrheit der anwesenden, stimm
 * Entgegennahme der Jahresberichte, des Kassenprüfberichtes, Entlastung des Vorstandes
 * Wahl der Hälfte der Vorstandsmitglieder auf zwei Jahre
 * ***in Jahren mit gerader Jahreszahl:***
-* 1.Vorsitzender
-* 2. Kassenwart
-* Geschäftsführer
-* Beisitzer (Organisationsteam)
-* Beisitzer (AL Fußball)
-* Beisitzer (Hallen-/Gerätewart Vereinsheim)
+    * &#8291;1. Vorsitzender
+    * &#8291;2. Kassenwart
+    * Geschäftsführer
+    * Beisitzer (Organisationsteam)
+    * Beisitzer (AL Fußball)
+    * Beisitzer (Hallen-/Gerätewart Vereinsheim)
 * ***in Jahren mit ungerader Jahreszahl:***
-* 2. Vorsitzender
-* 1. Kassenwart
-* Beisitzer (AL Tanz, Turnen, Leichtathletik & Taekwondo)
-* Beisitzer (Hallen-/Gerätewart Turnhalle)
-* Beisitzer (Organisationsteam)
-* Beisitzer (Organisationsteam)
-* Beisitzer (AL Kegeln)
+    * &#8291;2. Vorsitzender
+    * &#8291;1. Kassenwart
+    * Beisitzer (AL Tanz, Turnen, Leichtathletik & Taekwondo)
+    * Beisitzer (Hallen-/Gerätewart Turnhalle)
+    * Beisitzer (Organisationsteam)
+    * Beisitzer (Organisationsteam)
+    * Beisitzer (AL Kegeln)
 * Wahl der Hälfte der Kassenprüfer auf zwei Jahre
 * Beschlussfassung über vorliegende Anträge und Festsetzung der Mitgliedsbeiträge
 * Beschlussfassung über Satzungsänderungen
