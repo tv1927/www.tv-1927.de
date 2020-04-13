@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-path: /satzung
+path: /verein/satzung
 title: Vereinssatzung
 ---
 **§ 1 - Name, Rechtsform und Sitz**

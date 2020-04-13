@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /vorstand
+path: /verein/vorstand
 title: Der Vorstand
 ---
 ### Super Vorstand
