@@ -23,8 +23,7 @@ Hochstr. 2\
 
 **Beisitzer (Hallen-/Gerätewart Vereinsheim)**Patrick Sehn-Henn
 
-**\
-Beisitzer (Turnen & Tanz)**Anja Rau
+**Beisitzer (Turnen & Tanz)**Anja Rau
 
 **Beisitzer**Denise Hammen
 
