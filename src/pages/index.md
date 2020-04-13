@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Herzlich Willkommen
-image: /img/backgroundq.jpg
+image: /img/home-background.jpg
 heading: Was bieten wir?
 subheading: beim TV Unzenberg / Heinzenbach e.V.
 mainpitch:
