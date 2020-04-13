@@ -27,17 +27,59 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Home
+                        Startseite
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/about">
+                      <Link className="navbar-item" to="/blog">
+                        News &amp; Events
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/kontakt">
+                        Kontakt
+                      </Link>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+              <div className="column is-4">
+                <section>
+                  <ul className="menu-list">
+                    <li>
+                      <Link className="navbar-item" to="/verein">
+                        Dein Verein
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/verein/vorstand">
                         Vorstand
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
+                      <Link className="navbar-item" to="/verein/satzung">
                         Satzung
+                      </Link>
+                    </li>
+                  </ul>
+                </section>
+              </div>
+              <div className="column is-4">
+                <section>
+                  <ul className="menu-list">
+                    <li>
+                      <a className="navbar-item" target="_blank" href="https://www.facebook.com/TV.Unzenberg.Heinzenbach/">
+                        Finde uns auf <strong>Facebook</strong>!
+                      </a>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/impressum">
+                        Impressum
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item" to="/datenschutz">
+                        Datenschutz
                       </Link>
                     </li>
                     <li>
@@ -52,63 +94,6 @@ const Footer = class extends React.Component {
                     </li>
                   </ul>
                 </section>
-              </div>
-              <div className="column is-4">
-                <section>
-                  <ul className="menu-list">
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        News &amp; Events
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Kontakt
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/impressum">
-                        Impressum
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/datenschutz">
-                        Datenschutz
-                      </Link>
-                    </li>
-                  </ul>
-                </section>
-              </div>
-              <div className="column is-4 social">
-                <a title="facebook" href="https://www.facebook.com/TV.Unzenberg.Heinzenbach/">
-                  <img
-                    src={facebook}
-                    alt="Besuche uns auf Facebook!"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                {/* <a title="twitter" href="https://twitter.com">
-                  <img
-                    className="fas fa-lg"
-                    src={twitter}
-                    alt="Twitter"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="instagram" href="https://instagram.com">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>
-                <a title="vimeo" href="https://vimeo.com">
-                  <img
-                    src={vimeo}
-                    alt="Vimeo"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a> */}
               </div>
             </div>
           </div>
