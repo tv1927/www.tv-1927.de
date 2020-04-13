@@ -3,23 +3,25 @@ templateKey: about-page
 path: /verein/vorstand
 title: Der Vorstand
 ---
-## 1. Vorsitzender
-Willi Henn\
-Hochstr. 2\
+### 1. Vorsitzender
+
+Willi Henn
+Hochstr. 2
 55483 Heinzenbach
 
 ### 2. Vorsitzende
+
 Rilana Steinborn
 
-**Geschäftsführung**
+### Geschäftsführung
 
 Roman Henn
 
-**1. Kassenwart**
+### 1. Kassenwart
 
 Markus Dämgen
 
-**2. Kassenwart**
+### 2. Kassenwart
 
 Andreas Kasper
 
