@@ -50,7 +50,7 @@ export default class Contact extends React.Component {
               <form
                 name="file-upload"
                 method="post"
-                action="/kontakt/thanks/"
+                action="/kontakt/danke/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -59,13 +59,13 @@ export default class Contact extends React.Component {
                 <input type="hidden" name="form-name" value="file-upload" />
                 <div hidden>
                   <label>
-                    Don’t fill this out:{' '}
+                    Bitte nicht ausf&uuml;llen:{' '}
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Dein Name
                   </label>
                   <div className="control">
                     <input

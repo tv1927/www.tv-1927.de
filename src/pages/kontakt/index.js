@@ -39,11 +39,11 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
+              <h1>Kontakt</h1>
               <form
                 name="contact"
                 method="post"
-                action="/kontakt/thanks/"
+                action="/kontakt/danke/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -52,13 +52,13 @@ export default class Index extends React.Component {
                 <input type="hidden" name="form-name" value="contact" />
                 <div hidden>
                   <label>
-                    Don’t fill this out:{' '}
+                    Bitte nicht ausf&uuml;llen:{' '}
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    Dein Name
                   </label>
                   <div className="control">
                     <input
@@ -73,7 +73,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'email'}>
-                    Email
+                    E-Mail Adresse
                   </label>
                   <div className="control">
                     <input
@@ -88,7 +88,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
-                    Message
+                    Nachricht
                   </label>
                   <div className="control">
                     <textarea
@@ -102,7 +102,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <button className="button is-link" type="submit">
-                    Send
+                    Absenden
                   </button>
                 </div>
               </form>
