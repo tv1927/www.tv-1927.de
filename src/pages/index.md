@@ -6,12 +6,8 @@ heading: Was bieten wir?
 subheading: beim TV Unzenberg / Heinzenbach e.V.
 mainpitch:
   title: Der TV Unzenberg / Heinzenbach e.V.
-  description: >
-    Unser Ziel ist es, Dich bei Deinen sportlichen Zielen zu unterstützen und
-    allgemein sowohl Gemeinschaft als auch Kultur zu fördern. 
-
-    Wir freuen uns, wenn Du bereits Mitglied bist, wenn nicht, laden wir Dich
-    ein, ein Teil von uns zu werden.
+  description: |
+    blubb
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
