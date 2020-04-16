@@ -2,17 +2,16 @@
 templateKey: index-page
 title: Herzlich Willkommen
 image: /img/home-background.jpg
-heading: Was bieten wir?
+heading: Willkommen!
 subheading: beim TV Unzenberg / Heinzenbach e.V.
 mainpitch:
   title: Der TV Unzenberg / Heinzenbach e.V.
-  description: |
-    blubb
+  description: >
+    Wenn Du uns eine Nachricht zukommen lassen möchtest, benutze bitte unser
+    [Kontaktformular](/kontakt)
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Schön, dass Du uns besuchst! Im Bereich [Verein](/verein) erfährst Du viel
+  über unseren Verein.
 intro:
   blurbs:
     - image: /img/fussball-grid.jpg
