@@ -3,7 +3,7 @@ templateKey: about-page
 path: /verein/turnen
 title: Turnen
 ---
-![](/img/turnen-grid.jpg)
+![Turnen](/img/turnen-grid.jpg)
 
 ### Was wäre ein Turnverein ohne das Turnen?
 
