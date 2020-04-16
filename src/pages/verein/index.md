@@ -3,7 +3,7 @@ heading: Great coffee with a conscience
 path: /verein
 templateKey: product-page
 title: Der TV Unzenberg / Heinzenbach e.V.
-image: /img/jumbotron.jpg
+image: /img/verein-index.png
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
