@@ -43,16 +43,64 @@ Trainiert werden sie von A und B.
 
 
 
+#### Jumaana
+
+Die Showtanzgruppe Jumaana nimmt an Gaumeisterschaften teil.
+
+Trainiert werden sie von A und B.
+
+![Jumaana](/img/jumaana-2018-05.jpg)
 
 
-### Sustainable farming
 
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Galerie
 
-### Direct sourcing
+Nachfolgend einige Gruppen-Fotos von Wettkämpfen, Auftritten und schönen Erinnerungen.
 
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+![](/img/1.jpg)
 
-### Reinvest profits
 
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+![](/img/11.JPG)
+
+
+
+![](/img/13.JPG)
+
+
+
+![](/img/14.JPG)
+
+![](/img/15.JPG)
+
+![](/img/16.JPG)
+
+![](/img/17.JPG)
+
+![](/img/20181005_IMG-20180916-WA0010.jpg)
+
+![](/img/20181005_KleinenAndrea.jpg)
+
+![](/img/4.jpg)
+
+![](/img/5.jpg)
+
+![](/img/6.jpg)
+
+![](/img/Butterflies_1.jpg)
+
+![](/img/CIMG2536.jpg)
+
+![](/img/DSC_0230.JPG)
+
+![](/img/DSC_0656.jpg)
+
+![](/img/Gruppenfoto_01.jpg)
+
+![](/img/Sim_5_01 - Copy.jpg)
+
+![](/img/Tanzen1 - Copy.png)
+
+![](/img/Tanzen3.png)
+
+![](/img/RHZ - Copy.jpg)
