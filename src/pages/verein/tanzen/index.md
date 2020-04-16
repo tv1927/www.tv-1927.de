@@ -3,6 +3,8 @@ templateKey: about-page
 path: /verein/tanzen
 title: Tanzen
 ---
+![Tanzen](/img/tanzen-grid.jpg)
+
 ### Tanzen liegt im Trend
 
 Im TV Unzenberg/Heinzenbach wird viel getanzt. Schon für die ganz Kleinen gibt es Tanzgruppen, um die sich unsere engagierten und erfahrenen Trainerinnen kümmern.
@@ -31,8 +33,6 @@ Trainiert werden sie von A und B.
 
 ![Butterflies Kids](/img/butterflies-kids-uzb-01.jpg)
 
-
-
 #### Butterflies
 
 Die Butterflies sind im Alter zwischen x und y Jahren.
@@ -40,8 +40,6 @@ Die Butterflies sind im Alter zwischen x und y Jahren.
 Trainiert werden sie von A und B.
 
 ![Butterflies](/img/butterfly-kinderfastnacht-2017-02.jpg)
-
-
 
 #### Jumaana
 
@@ -51,23 +49,15 @@ Trainiert werden sie von A und B.
 
 ![Jumaana](/img/jumaana-2018-05.jpg)
 
-
-
 ### Galerie
 
 Nachfolgend einige Gruppen-Fotos von Wettkämpfen, Auftritten und schönen Erinnerungen.
 
 ![](/img/1.jpg)
 
-
-
 ![](/img/11.JPG)
 
-
-
 ![](/img/13.JPG)
-
-
 
 ![](/img/14.JPG)
 
