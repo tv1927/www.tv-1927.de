@@ -1,19 +1,19 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { VorstandPageTemplate } from '../../templates/vorstand-page'
+import { InfoPageTemplate } from '../../templates/info-page'
 
-const VorstandPagePreview = ({ entry, widgetFor }) => (
-  <VorstandPageTemplate
+const InfoPagePreview = ({ entry, widgetFor }) => (
+  <InfoPageTemplate
     title={entry.getIn(['data', 'title'])}
     content={widgetFor('body')}
   />
 )
 
-VorstandPagePreview.propTypes = {
+InfoPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
 }
 
-export default VorstandPagePreview
+export default InfoPagePreview
