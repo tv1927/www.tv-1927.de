@@ -6,7 +6,8 @@ description: ❗❗Wichtige Information für alle Gruppen unseres Vereins! ❗�
 featuredpost: true
 featuredimage: /img/football-4526606_640.jpg
 tags:
-  - Training Corona
+  - Training
+  - Corona
 ---
 Aufgrund der derzeitigen Lage und den Empfehlungen verschiedener Institutionen bezüglich des Coronavirus, haben wir, **der Vorstand des TV 1927 Unzenberg/Heinzenbach e.V.** uns dazu entschieden, ***ab sofort jeglichen Trainingsbetrieb bis nach den Osterferien einzustellen!***
 
