@@ -9659,6 +9659,11 @@ netlify-cms-locales@^1.10.0:
   resolved "https://registry.yarnpkg.com/netlify-cms-locales/-/netlify-cms-locales-1.10.0.tgz#ec7db32da871db44b1c87a99cc66283dd96bbb95"
   integrity sha512-0BKnJv+mQgsuvc4BZFa6YuLt5hqPNzcpYX0LAiupJvXLGft617VgtLJF4JRYmIc8mijt8WYf+iyhR3Xl36n1dA==
 
+netlify-cms-locales@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/netlify-cms-locales/-/netlify-cms-locales-1.12.0.tgz#c66e073401f351dd6ee1f5ae374798901dbcb901"
+  integrity sha512-u/6nDpmtazeP6H3812JTG1QD1dTrx5g0LXZ6AkuIIB+hhfcQYa0kqti/8tjlOpiDuS/Cff+A4XtsMOqZAFXToQ==
+
 netlify-cms-ui-default@^2.9.3:
   version "2.9.3"
   resolved "https://registry.yarnpkg.com/netlify-cms-ui-default/-/netlify-cms-ui-default-2.9.3.tgz#6a9aa764885d374670491ec37cb08625718702de"
