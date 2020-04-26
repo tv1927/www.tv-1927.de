@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Herzlich Willkommen
 image: /img/home-background.jpg
-heading: Willkommen!
+heading: Herzlich Willkommen!
 subheading: beim TV Unzenberg / Heinzenbach e.V.
 mainpitch:
   title: Der TV Unzenberg / Heinzenbach e.V.
