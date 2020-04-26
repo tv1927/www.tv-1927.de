@@ -120,4 +120,6 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      
+
+site_url: https://tv-1927.netlify.app
+logo_url: https://tv-1927.netlify.app/img/og-image.png 
