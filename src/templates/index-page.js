@@ -4,7 +4,7 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
-import BlogRoll from '../components/BlogRoll'
+import BlogNews from '../components/BlogNews'
 
 export const IndexPageTemplate = ({
   image,
@@ -82,10 +82,10 @@ export const IndexPageTemplate = ({
                   <h3 className="has-text-weight-semibold is-size-2">
                     Aktuelles
                   </h3>
-                  <BlogRoll />
+                  <BlogNews />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
-                    Alle News &amp; Events aus unserem Blog
+                    Alle Blog Artikel
                     </Link>
                   </div>
                 </div>
