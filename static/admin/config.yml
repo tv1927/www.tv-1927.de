@@ -1,7 +1,7 @@
 locale: 'de'
 backend:
   name: git-gateway
-  branch: master
+  branch: SyncFusion
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
     update: 'Update {{collection}} “{{slug}}”'
