@@ -67,7 +67,6 @@ export default () => (
                 title
                 description
                 templateKey
-                featuredpost
                 featuredimage {
                   childImageSharp {
                     fluid(maxWidth: 120, quality: 100) {

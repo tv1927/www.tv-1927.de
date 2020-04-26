@@ -22,7 +22,7 @@ export default class AreaIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-           Die Sparten in unserem Verein
+           Die einzelnen Sparten in unserem Verein
           </h1>
         </div>
         <section className="section">

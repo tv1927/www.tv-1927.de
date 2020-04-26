@@ -2,7 +2,6 @@
 templateKey: area-page
 title: Spartentitel
 description: Spartenbeschreibung - so sieht die Sparte aus ...
-featuredpost: true
 featuredimage: /img/fussball-grid.jpg
 tags:
   - Fußball
