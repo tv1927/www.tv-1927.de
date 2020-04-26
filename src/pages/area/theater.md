@@ -2,8 +2,9 @@
 templateKey: area-page
 title: Theater
 description: >-
-  Unsere Sparte Theater führt jeweils im Januar ein Theaterstück in der
-  Turnhalle auf, welches an beiden Tagen stets ausverkauft ist.
+  Unsere Sparte Theater führt jeweils an einem Wochenende im Januar ein
+  Theaterstück in der Turnhalle auf, welches an beiden Tagen stets ausverkauft
+  ist.
 
   Informiere Dich und spiel' mit!
 featuredpost: false
