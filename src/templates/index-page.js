@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
+import AreaFeatures from '../components/AreaFeatures'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogNews from '../components/BlogNews'
@@ -85,9 +86,10 @@ export const IndexPageTemplate = ({
                   <BlogNews />
                   <div className="column is-12 has-text-centered">
                     <Link className="btn" to="/blog">
-                    Alle Blog Artikel
+                    Zum Blog
                     </Link>
                   </div>
+                
                 </div>
                 <div className="columns">
                   <div className="column is-12">
@@ -95,6 +97,7 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
+                      <AreaFeatures />
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
