@@ -1,5 +1,5 @@
 ---
-templateKey: area-page
+templateKey: info-page
 path: /datenschutz
 title: Datenschutz
 ---

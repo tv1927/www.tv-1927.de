@@ -1,5 +1,5 @@
 ---
-templateKey: area-page
+templateKey: info-page
 path: /verein/geschichte
 title: Geschichte des Turnvereins
 ---
