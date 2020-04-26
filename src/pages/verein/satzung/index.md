@@ -1,7 +1,7 @@
 ---
 templateKey: info-page
 path: /verein/satzung
-title: Satzung des TV Unzenberg / Heinzenbach e.V.
+title: Die Satzung des TV Unzenberg / Heinzenbach e.V.
 ---
 **§ 1 - Name, Rechtsform und Sitz**
 
