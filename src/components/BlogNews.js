@@ -24,7 +24,7 @@ class BlogNews extends React.Component {
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                          alt: `Vorschaubild von Artikel: ${post.frontmatter.title}`,
                         }}
                       />
                     </div>
@@ -36,15 +36,11 @@ class BlogNews extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
                   </p>
                 </header>
                 <p>
-                  {post.frontmatter.description}
-                  &nbsp;<Link to={post.fields.slug}>
+                {post.frontmatter.date} - {post.frontmatter.description}
+                <br /><Link to={post.fields.slug}>
                   → mehr 
                   </Link>
                 </p>

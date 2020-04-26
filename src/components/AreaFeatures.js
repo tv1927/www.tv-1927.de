@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link, graphql, StaticQuery } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage'
 
-class AreaRoll extends React.Component {
+class AreaPreview extends React.Component {
   render() {
     const { data } = this.props
     const { edges: posts } = data.allMarkdownRemark
@@ -12,43 +12,28 @@ class AreaRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
-              <article
-                className={'blog-list-item tile is-child box notification'}
-              >
-                <header>
-                  {post.frontmatter.featuredimage ? (
-                    <div className="featured-thumbnail">
+            <div className="column is-6" key={post.id}>
+              <section className="section">
+                <Link to={post.fields.slug}>
+                  <div className="has-text-centered">
+                    <div
+                      style={{
+                        width: '240px',
+                        display: 'inline-block',
+                      }}
+                    >
+                      <h4>{post.frontmatter.title}</h4>
                       <PreviewCompatibleImage
                         imageInfo={{
                           image: post.frontmatter.featuredimage,
-                          alt: `featured image thumbnail for post ${post.frontmatter.title}`,
+                          alt: `Bild von Sparte ${post.frontmatter.title}`,
                         }}
                       />
                     </div>
-                  ) : null}
-                  <p className="post-meta">
-                    <Link
-                      className="title has-text-primary is-size-4"
-                      to={post.fields.slug}
-                    >
-                      {post.frontmatter.title}
-                    </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      NO DATE - TO BE REPLACED
-                    </span>
-                  </p>
-                </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Weiterlesen →
-                  </Link>
-                </p>
-              </article>
+                    <p>{post.frontmatter.description}</p>
+                  </div>
+                </Link>
+              </section>
             </div>
           ))}
       </div>
@@ -56,7 +41,7 @@ class AreaRoll extends React.Component {
   }
 }
 
-AreaRoll.propTypes = {
+AreaPreview.propTypes = {
   data: PropTypes.shape({
     allMarkdownRemark: PropTypes.shape({
       edges: PropTypes.array,
@@ -67,20 +52,20 @@ AreaRoll.propTypes = {
 export default () => (
   <StaticQuery
     query={graphql`
-      query AreaRollQuery {
+      query AreaPreviewQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "area-page" } } }
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
               id
               fields {
                 slug
               }
               frontmatter {
                 title
+                description
                 templateKey
                 featuredimage {
                   childImageSharp {
@@ -95,6 +80,6 @@ export default () => (
         }
       }
     `}
-    render={(data, count) => <AreaRoll data={data} count={count} />}
+    render={(data, count) => <AreaPreview data={data} count={count} />}
   />
 )
