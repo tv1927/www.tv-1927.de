@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: SyncFusion Herzlich Willkommen
+title: Herzlich Willkommen
 image: /img/home-background.jpg
 heading: Herzlich Willkommen!
 subheading: beim TV Unzenberg / Heinzenbach e.V.
