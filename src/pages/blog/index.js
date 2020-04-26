@@ -22,7 +22,7 @@ export default class BlogIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Alle News &amp; Events
+           Vereins-Blog
           </h1>
         </div>
         <section className="section">
