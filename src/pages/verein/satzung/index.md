@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: area-page
 path: /verein/satzung
 title: Satzung des TV Unzenberg / Heinzenbach e.V.
 ---

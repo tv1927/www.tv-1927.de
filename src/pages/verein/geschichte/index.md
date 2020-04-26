@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: area-page
 path: /verein/geschichte
 title: Geschichte des Turnvereins
 ---
@@ -38,7 +38,8 @@ Ganz organisch wuchs so ein Stamm von besonders talentierten und befähigten Tur
 
 ### Erfolge Anfang der 50er Jahre
 
-Im Reigen der besonderen Erfolge soll nicht unerwähnt bleiben, dass der Verein in den Jahren 1951 bis 1953 den Gaumeister im Tauziehen stellte.
+Im Reigen der besonderen Erfolge soll nicht unerwähnt bleiben, dass der Verein in den Jahren 1951 bis 1953 den
+ Gaumeister im Tauziehen stellte.
 
 Eine selbstverständliche Aufgabe der Vereinsführung war es stets, Turner und
 Turnerinnen nicht nur fachlich auszubilden und zu fördern, sondern auch erzieherisch zu wirken. „Nicht nur in
@@ -49,7 +50,11 @@ Turnjugend darf gewertet werden, dass der Verein in den vorangegangenen drei Jah
 Gauturnfeste stets den besten Eindruck hinterließ und dafür jeweils mit einer Urkunde des Gaues ausgezeichnet
 wurde.
 
-Beim Bergfest an der Nunkirche konnte im Jahre 1956 das „Präsidentenbanner“ trotz zahlreicher Konkurrenz gewonnen werden. Zur siegreichen Mannschaft gehörten: Linus Dietrich, Hannelore Müller, Walter Munzlinger, Elisabeth Winn & Eugen Müller
+Beim Bergfest an der Nunkirche konnte im Jahre 1956 das „Präsidentenbanner“ trotz zahlreicher Konkurrenz gewonnen werden. Zur siegreichen Mannschaft gehörten: Linus Dietrich
+, Hannelore Müller
+, Walter Munzlinger
+, Elisabeth Winn &
+ Eugen Müller
 
 
 ### Die Turnhalle
@@ -88,7 +93,8 @@ Beendigung des Turnens überreichte unser Vorsitzender Lehrer Herrmann (der die 
 auch gewonnen hatte) dem Riegenführer Halbert Dicklich zur Erinnerung an unsere Turnhallenweihe einen
 handgeschnitzen Teller und für das leiblich Wohl einen großen Präsentkorb.
 
-Die Turner der Kölner Turnerschaft verewigten sich in unserer Vereinsgeschichte mit einem Foto und Autogrammen. Das 3tägige Fest war in jeder Hinsicht ein großer Erfolg für den Turnverein. Die Halle und das daran gebaute Festzelt waren, vor allem am Festsonntag, als die Kölner Turnerschaft turnte, zum brechen gefüllt, und Hunderte konnten wegen Überfüllung keinen Einlass mehr finden.
+Die Turner der Kölner Turnerschaft
+ verewigten sich in unserer Vereinsgeschichte mit einem Foto und Autogrammen. Das 3tägige Fest war in jeder Hinsicht ein großer Erfolg für den Turnverein. Die Halle und das daran gebaute Festzelt waren, vor allem am Festsonntag, als die Kölner Turnerschaft turnte, zum brechen gefüllt, und Hunderte konnten wegen Überfüllung keinen Einlass mehr finden.
 
 ### Das Gauturnfest 1960
 
@@ -104,7 +110,8 @@ Kämpfe um das Gaubanner ausgetragen wurden. Sieger wurde der TV Raversbeuren. A
 7. Sieger Heidemarie Bauer, Anneliese Adam
 8. Sieger Günster Demgen
 10. Sieger Sabine Derelo Damit waren fast 35 % der Wettkämpfer unter den ersten 10 Siegern. Der Verein zählte somit neben dem
-TV Raversbeuren und dem TV Kümbdchen-Keidelheim zu den erfolgreichsten teilnehmenden Vereinen am 24. Gauturnfest. Diese Erfolge konnten alle mit Stolz erfüllen.
+TV Raversbeuren und dem TV Kümbdchen-Keidelheim zu den erfolgreichsten teilnehmenden Vereinen am 24.
+ Gauturnfest. Diese Erfolge konnten alle mit Stolz erfüllen.
 
 ### Die neue Fußballabteilung
 

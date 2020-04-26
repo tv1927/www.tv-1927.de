@@ -1,5 +1,5 @@
 ---
-templateKey: about-page
+templateKey: area-page
 path: /verein/tanzen
 title: Tanzen
 ---
