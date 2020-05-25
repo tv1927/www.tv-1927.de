@@ -3,6 +3,40 @@ const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes, createFieldExtension } = actions
+
+  // isFuture("yourName") returns the function source => {
+  //   const date = get(source, "yourName")
+  //   return new Date(date) > new Date()
+  // }
+  // This is called Currying
+  // https://en.wikipedia.org/wiki/Currying
+  // see also https://www.lekoarts.de/en/blog/you-can-leverage-gatsbys-graphql-data-layer-to-filter
+  const isFuture = fieldName => source => {
+    const date = _.get(source, fieldName)
+    return new Date(date) > new Date()
+  }
+
+  createFieldExtension({
+    name: `isFuture`,
+    args: {
+      fieldName: "String!",
+    },
+    extend({ fieldName }) {
+      return {
+        resolve: isFuture(fieldName),
+      }
+    },
+  })
+
+  createTypes(`
+    type MarkdownRemark implements Node {
+      isFuture: Boolean! @isFuture(fieldName: "frontmatter.unpublishdate")
+    }
+  `)
+}
+
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
