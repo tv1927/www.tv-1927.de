@@ -1,12 +1,7 @@
 ---
 templateKey: area-page
 title: Theater
-description: >-
-  Unsere Sparte Theater führt jeweils an einem Wochenende im Januar ein
-  Theaterstück in der Turnhalle auf, welches an beiden Tagen stets ausverkauft
-  ist.
-
-  Informiere Dich und spiel' mit!
+description: 'Die Bretter, die die Welt bedeuten'
 featuredpost: false
 featuredimage: /img/theater-grid.jpg
 tags:
