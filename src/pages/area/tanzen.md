@@ -1,11 +1,7 @@
 ---
 templateKey: area-page
 title: Tanzen
-description: >-
-  Bei uns wird viel und auch erfolgreich getanzt!
-
-  Jeder kann mitmachen! Auf den nachfolgenden Seiten haben wir viele Infos und
-  Fotos für Dich zusammen gestellt, klick mich an.
+description: Showtanzen und mehr
 featuredpost: false
 featuredimage: /img/tanzen-grid.jpg
 tags:
