@@ -1,10 +1,15 @@
 ---
 templateKey: area-page
 title: Tanzen
-description: asdf
+description: >-
+  Bei uns wird viel und auch erfolgreich getanzt!
+
+  Jeder kann mitmachen! Auf den nachfolgenden Seiten haben wir viele Infos und
+  Fotos für Dich zusammen gestellt, klick mich an.
+featuredpost: false
 featuredimage: /img/tanzen-grid.jpg
 tags:
-  - ShowTanz, Tanzen
+  - 'ShowTanz, Tanzen'
 ---
 ### Tanzen liegt im Trend
 
@@ -20,7 +25,7 @@ Aktuell unterhält der TV Unzenberg / Heinzenbach e.V. folgende Tanzgruppen:
 
 #### Little Diamonds
 
-Die Little Diamonds sind im Alter zwischen x und y Jahren.
+Die 'Little Diamonds' sind im Alter zwischen x und y Jahren.
 
 Trainiert werden sie von A und B.
 

@@ -1,8 +1,7 @@
 ---
 templateKey: area-page
 title: Fußball
-description: |-
-  Fußball Spielgemeinschaft Sargenroth - Unzenberg
+description: Fußball Spielgemeinschaft Sargenroth - Unzenberg.
 featuredimage: /img/fussball-grid.jpg
 tags:
   - Fußball
