@@ -25,7 +25,7 @@ Aktuell unterhält der TV Unzenberg / Heinzenbach e.V. folgende Tanzgruppen:
 
 #### Little Diamonds
 
-Die Little Diamonds sind im Alter zwischen x und y Jahren.
+Die 'Little Diamonds' sind im Alter zwischen x und y Jahren.
 
 Trainiert werden sie von A und B.
 
