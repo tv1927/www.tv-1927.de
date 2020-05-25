@@ -1,9 +1,7 @@
 ---
 templateKey: area-page
 title: Fußball
-description: |-
-  Fußball wird bei uns in allen Altersklassen gespielt. 
-  Seit Jahren sind wir Teil der Spielgemeinschaft Sargenroth - Unzenberg. 
+description: 'Fußball Spielgemeinschaft Sargenroth - Unzenberg. '
 featuredimage: /img/fussball-grid.jpg
 tags:
   - Fußball
