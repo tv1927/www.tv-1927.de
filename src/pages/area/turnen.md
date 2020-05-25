@@ -3,8 +3,7 @@ templateKey: area-page
 title: Turnen
 description: >-
   Turnen ist eine der erfolgreichesten Möglichkeiten, seinen Körper konditionell
-  zu stärken und die Koordination zu steigern. Also, hoch vom Sofa und komm' in
-  eine unserer Gruppen! ;)
+  zu stärken und die Koordination zu steigern - turn' Dich fit!
 featuredpost: false
 featuredimage: /img/turnen-grid.jpg
 tags:
