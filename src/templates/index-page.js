@@ -71,23 +71,15 @@ export const IndexPageTemplate = ({
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                {/* <div className="content">
-                  <div className="tile">
-                    <h1 className="title">{mainpitch.title}</h1>
-                  </div>
-                  <div className="tile">
-                    <h3 className="subtitle">{mainpitch.description}</h3>
-                  </div>
-                </div> */}
                 <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     News &amp; Aktuelles
                   </h3>
                   <BlogNews />
                   <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/blog">
+                    {/* <Link className="btn" to="/blog">
                     Alle Blog Posts
-                    </Link>
+                    </Link> */}
                   </div>
                 </div>
                 <div className="columns">
@@ -127,10 +119,9 @@ export const IndexPageTemplate = ({
 
 IndexPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
+  title: PropTypes.string,
   description: PropTypes.string,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 }
@@ -142,10 +133,9 @@ const IndexPage = ({ data }) => {
     <Layout>
       <IndexPageTemplate
         image={frontmatter.image}
-        title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
+        title={frontmatter.title}
         description={frontmatter.description}
         fullImage={frontmatter.full_image}
       />
@@ -167,7 +157,6 @@ export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       frontmatter {
-        title
         image {
           childImageSharp {
             fluid(maxWidth: 2048, quality: 100) {
@@ -177,10 +166,7 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        mainpitch {
-          title
-          description
-        }
+        title
         description
         full_image {
           childImageSharp {
