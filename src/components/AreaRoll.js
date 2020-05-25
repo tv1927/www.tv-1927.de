@@ -35,9 +35,9 @@ class AreaRoll extends React.Component {
                       {post.frontmatter.title}
                     </Link>
                     <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
+                    {/* <span className="subtitle is-size-5 is-block">
                       NO DATE - TO BE REPLACED
-                    </span>
+                    </span> */}
                   </p>
                 </header>
                 <p>
@@ -69,7 +69,7 @@ export default () => (
     query={graphql`
       query AreaRollQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
+          sort: { order: ASC, fields: [frontmatter___title] }
           filter: { frontmatter: { templateKey: { eq: "area-page" } } }
         ) {
           edges {

@@ -39,7 +39,7 @@ class BlogNews extends React.Component {
                   </p>
                 </header>
                 <p>
-                {post.frontmatter.date} - {post.frontmatter.description}
+                {post.frontmatter.publishdate} - {post.frontmatter.description}
                 <br /><Link to={post.fields.slug}>
                   → mehr 
                   </Link>
@@ -65,7 +65,7 @@ export default () => (
     query={graphql`
       query BlogNewsQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
+          sort: { order: DESC, fields: [frontmatter___publishdate] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
@@ -78,7 +78,7 @@ export default () => (
                 title
                 description
                 templateKey
-                date(formatString: "DD. MMMM YYYY", locale: "de")
+                publishdate(formatString: "DD. MMMM YYYY", locale: "de")
                 featuredpost
                 featuredimage {
                   childImageSharp {

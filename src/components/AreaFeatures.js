@@ -54,7 +54,7 @@ export default () => (
     query={graphql`
       query AreaPreviewQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
+          sort: { order: ASC, fields: [frontmatter___title] }
           filter: { frontmatter: { templateKey: { eq: "area-page" } } }
         ) {
           edges {

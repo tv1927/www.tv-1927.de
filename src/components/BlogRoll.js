@@ -38,7 +38,7 @@ class BlogRoll extends React.Component {
                     </Link>
                     <span> &bull; </span>
                     <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
+                      {post.frontmatter.publishdate}
                     </span>
                   </p>
                 </header>
@@ -71,7 +71,7 @@ export default () => (
     query={graphql`
       query BlogRollQuery {
         allMarkdownRemark(
-          sort: { order: DESC, fields: [frontmatter___date] }
+          sort: { order: DESC, fields: [frontmatter___publishdate] }
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
@@ -84,7 +84,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "DD. MMMM YYYY", locale: "de")
+                publishdate(formatString: "DD. MMMM YYYY", locale: "de")
                 featuredpost
                 featuredimage {
                   childImageSharp {

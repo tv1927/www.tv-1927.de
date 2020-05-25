@@ -1,7 +1,8 @@
 ---
 templateKey: blog-post
 title: Einstellung Trainingsbetrieb!
-date: 2020-03-07T08:00:16.412Z
+publishdate: 2020-03-07T08:00:16.412Z
+unpublishdate: 2020-05-24T10:00:51.356Z
 description: ❗❗Wichtige Information für alle Gruppen unseres Vereins! ❗❗
 featuredpost: true
 featuredimage: /img/football-4526606_640.jpg
