@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Einladung zur Jahreshauptversammlung am 5.9.2020
-publishdate: 2020-08-07T20:12:00.922Z
+publishdate: 2020-08-07T08:00:00.922Z
 unpublishdate: 2020-09-05T21:59:00.000Z
 description: >-
   Am Samstag, 05. September 2020 um 19.00 Uhr, findet die Jahreshauptversammlung
