@@ -4,7 +4,7 @@ title: Einstellung Trainingsbetrieb!
 publishdate: 2020-03-07T08:00:16.412Z
 unpublishdate: 2020-05-25T10:00:00.000Z
 description: ❗❗Wichtige Information für alle Gruppen unseres Vereins! ❗❗
-featuredpost: true
+featuredpost: false
 featuredimage: /img/football-4526606_640.jpg
 tags:
   - Training
