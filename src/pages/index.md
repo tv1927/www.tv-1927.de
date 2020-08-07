@@ -6,6 +6,6 @@ heading: Wir begrüßen Sie auf unserer Internet Präsenz!
 subheading: beim TV Unzenberg / Heinzenbach e.V.
 description: >-
   Aktuelle Infos zu unseren Veranstaltungen und unserem Verein finden Sie auch
-  unter https://www.facebook.com/TV.Unzenberg.Heinzenbach/
+  unter der <strong><a href="https://www.facebook.com/TV.Unzenberg.Heinzenbach/" target="_blank" >TV Unzenberg / Heinzenbach e.V. Facebook Seite</a></strong>
 full_image: /img/4.jpg
 ---
