@@ -103,7 +103,7 @@ export const IndexPageTemplate = ({
                     href="https://www.facebook.com/facebook"
                     tabs={['timeline', 'events', 'messages']}/>
                 </div> */}
-                      <AreaFeatures />
+                      {/* <AreaFeatures /> */}
                   </div>
                 </div>
                 {/* <div className="columns">
@@ -113,7 +113,7 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div> */}
-                <div
+                {/* <div
                 className="full-width-image-container"
                 style={{
                   backgroundImage: `url(${
@@ -122,7 +122,7 @@ export const IndexPageTemplate = ({
                       : fullImage
                   })`,
                 }}
-              />
+              /> */}
               </div>
             </div>
           </div>
