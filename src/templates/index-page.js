@@ -1,20 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-// import {
-//   FBComments,
-//   FBCommentsCount,
-//   FBEmbedPost,
-//   FBEmbedVideo,
-//   FBFollow,
-//   FBLike,
-//   FBPage,
-//   FBSend,
-//   FBShare
-// } from 'facebook-plugins';
 
 import AreaFeatures from '../components/AreaFeatures'
 import Layout from '../components/Layout'
+import Features from '../components/Features'
 import BlogNews from '../components/BlogNews'
 
 export const IndexPageTemplate = ({
@@ -98,11 +88,6 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
-                    {/* <div className="columns">
-                  <FBPage appId="821262015065038"
-                    href="https://www.facebook.com/facebook"
-                    tabs={['timeline', 'events', 'messages']}/>
-                </div> */}
                       <AreaFeatures />
                   </div>
                 </div>
