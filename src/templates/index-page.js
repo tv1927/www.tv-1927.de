@@ -88,7 +88,7 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
-                      <AreaFeatures />
+                      {/* <AreaFeatures /> */}
                   </div>
                 </div>
                 {/* <div className="columns">
@@ -98,7 +98,7 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div> */}
-                <div
+                {/* <div
                 className="full-width-image-container"
                 style={{
                   backgroundImage: `url(${
@@ -107,7 +107,7 @@ export const IndexPageTemplate = ({
                       : fullImage
                   })`,
                 }}
-              />
+              /> */}
               </div>
             </div>
           </div>
