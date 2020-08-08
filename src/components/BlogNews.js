@@ -39,7 +39,7 @@ class BlogNews extends React.Component {
                   </p>
                 </header>
                 <p>
-                {post.frontmatter.startdate} - {post.frontmatter.description}
+                <strong>{post.frontmatter.startdate}</strong>{post.frontmatter.startdate ? " - " : null}{post.frontmatter.description}
                 <br /><Link to={post.fields.slug}>
                   → mehr 
                   </Link>

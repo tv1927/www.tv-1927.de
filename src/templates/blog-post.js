@@ -7,6 +7,7 @@ import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
+  startdate,
   content,
   contentComponent,
   description,
@@ -22,9 +23,11 @@ export const BlogPostTemplate = ({
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
+          
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            {startdate ? <p><strong>{startdate}</strong></p> : null}
             <p>{description}</p>
             <PostContent content={content} />
             {/* {tags && tags.length ? (
@@ -60,6 +63,7 @@ const BlogPost = ({ data }) => {
   return (
     <Layout>
       <BlogPostTemplate
+        startdate={post.frontmatter.startdate}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
