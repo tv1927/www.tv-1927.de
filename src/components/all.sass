@@ -11,6 +11,8 @@
 $main-color: #13421e
 $main-color-invert: #ffe600
 
+$hover-color: #004897
+
 $primary: $main-color
 $primary-invert: $main-color-invert
 $body-color: #111
@@ -128,11 +130,16 @@ $menu-label-color: $white-ter
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
 
-// links should be black
+// links should be in main color
 // see also https://css-tricks.com/snippets/sass/sass-things-links/
-$a-tags: 'a, a:active, a:visited'; // hover is excluded - , a:hover
+a, a:link, a:visited
+  color: $main-color;
+  font-weight: bold;
 
-#{$a-tags} 
+a:hover
+  color: $hover-color;
+
+a:active
   color: $main-color;
   font-weight: bold;
 
