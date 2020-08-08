@@ -77,7 +77,7 @@ export const IndexPageTemplate = ({
                   </h3>
                   <BlogNews />
                   <div className="column is-12 has-text-centered">
-                    <Link style={{ color: 'black' }} to="/blog">
+                    <Link to="/blog">
                     → Alle Blog Posts
                     </Link>
                   </div>
