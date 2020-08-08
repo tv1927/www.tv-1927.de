@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Einladung zur Jahreshauptversammlung
+startdate: 2020-09-05T00:51:16.009Z
 publishdate: 2020-08-07T08:00:00.922Z
 unpublishdate: 2020-09-05T21:59:00.000Z
 description: Neuer Termin für die Jahreshauptversammlung 2020
