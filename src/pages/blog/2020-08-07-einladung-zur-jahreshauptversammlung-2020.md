@@ -12,10 +12,6 @@ featuredimage: /img/apple-touch-icon.png
 tags:
   - Jahreshauptversammlung
 ---
-Hallo liebe Mitglieder,
-
-am Samstag, 05. September 2020 um 19.00 Uhr, findet die Jahreshauptversammlung 2020 in der Turnhalle in Unzenberg statt.
-
 Tagesordnung:
 
 1. Eröffnung und Begrüßung
