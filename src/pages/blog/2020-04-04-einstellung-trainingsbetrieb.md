@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Einstellung Trainingsbetrieb!
+startdate: 2020-03-07T08:00:00.000Z
 publishdate: 2020-03-07T08:00:16.412Z
 unpublishdate: 2020-05-25T10:00:00.000Z
 description: ❗❗Wichtige Information für alle Gruppen unseres Vereins! ❗❗

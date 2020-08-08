@@ -1,11 +1,12 @@
 ---
 templateKey: blog-post
-title: Einladung zur Jahreshauptversammlung 2020
+title: Einladung zur Jahreshauptversammlung
+startdate: 2020-09-05T08:00:00.000Z
 publishdate: 2020-08-07T20:12:00.922Z
 unpublishdate: 2020-09-05T21:59:00.000Z
 description: >-
   Am Samstag, 05. September 2020 um 19.00 Uhr, findet die Jahreshauptversammlung
-  2020 in der Turnhalle in Unzenberg statt.
+  in der Turnhalle in Unzenberg statt.
 featuredpost: true
 featuredimage: /img/apple-touch-icon.png
 tags:

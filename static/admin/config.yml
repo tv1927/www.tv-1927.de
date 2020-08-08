@@ -36,6 +36,7 @@ collections:
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Startdatum", name: "startdate", widget: "datetime"}
       - {label: "Veröffentlichungsdatum", name: "publishdate", widget: "datetime"}
       - {label: "Auf Startseite bis", name: "unpublishdate", widget: "datetime"}
       - {label: "Beschreibung", name: "description", widget: "text"}

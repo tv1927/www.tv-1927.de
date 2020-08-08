@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: Neue Vereinswebseite!
+startdate: 2020-08-01T08:00:00.000Z
 publishdate: 2020-08-01T10:00:51.356Z
 unpublishdate: 2021-01-27T11:00:00.000Z
 description: Der TV Unzenberg / Heinzenbach hat eine neue Internet Präsenz!
