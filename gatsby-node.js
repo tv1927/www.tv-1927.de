@@ -15,7 +15,7 @@ exports.createSchemaCustomization = ({ actions }) => {
   // see also https://www.lekoarts.de/en/blog/you-can-leverage-gatsbys-graphql-data-layer-to-filter
   const isFuture = fieldName => source => {
     const date = _.get(source, fieldName)
-    return new Date(date) > new Date()
+    return new Date(date) >= new Date()
   }
 
   createFieldExtension({
@@ -30,9 +30,34 @@ exports.createSchemaCustomization = ({ actions }) => {
     },
   })
 
+ // isDate("yourName") returns the function source => {
+  //   const date = get(source, "yourName")
+  //   return new Date(date) < new Date()
+  // }
+  // This is called Currying
+  // https://en.wikipedia.org/wiki/Currying
+  // see also https://www.lekoarts.de/en/blog/you-can-leverage-gatsbys-graphql-data-layer-to-filter
+  const isPast = fieldName => source => {
+    const date = _.get(source, fieldName)
+    return new Date(date) <= new Date()
+  }
+
+  createFieldExtension({
+    name: `isPast`,
+    args: {
+      fieldName: "String!",
+    },
+    extend({ fieldName }) {
+      return {
+        resolve: isPast(fieldName),
+      }
+    },
+  })
+
   createTypes(`
     type MarkdownRemark implements Node {
       isFuture: Boolean! @isFuture(fieldName: "frontmatter.unpublishdate")
+      isPast: Boolean! @isPast(fieldName: "frontmatter.publishdate")
     }
   `)
 }

@@ -66,7 +66,7 @@ export default () => (
       query BlogNewsQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___startdate] }
-          filter: {isFuture: {eq: true}, frontmatter: {templateKey: {eq: "blog-post"}} }
+          filter: {isFuture: {eq: true}, isPast: {eq: true}, frontmatter: {templateKey: {eq: "blog-post"}} }
         ) {
           edges {
             node {
