@@ -3,12 +3,13 @@ templateKey: info-page
 path: /verein/vorstand
 title: Der Vorstand
 ---
-### 1. Vorsitzender
+### 1. Vorsitzende
 
-Rilana Steinborn Henn Hauptstrasse 22
-55483 Heinzenbach
+Rilana Steinborn, Hauptstrasse 22 
 
-### 2. Vorsitzende
+55483 Unzenberg
+
+### 2. Vorsitzender
 
 Pascal Klein
 
