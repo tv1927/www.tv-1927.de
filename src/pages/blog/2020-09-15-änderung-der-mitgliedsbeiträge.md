@@ -24,11 +24,11 @@ Die Anhebung der Mitgliedsbeiträge betrifft NUR AKTIVE Mitglieder. Unter „akt
 
 Die Beiträge werden 2020 wie folgt angepasst:
 
-**AKTIVE** 
-
-> Kinder / Jugendliche bis 18 Jahre Mitgliedsbeitrag 4,00 €/Monat (48,00 €/Jahr) 
+> **AKTIVE** 
 >
-> Erwachsene ab 18 Jahre Mitgliedsbeitrag 6,00 €/Monat (72,00 €/Jahr)
+> > Kinder / Jugendliche bis 18 Jahre Mitgliedsbeitrag 4,00 €/Monat (48,00 €/Jahr) 
+> >
+> > Erwachsene ab 18 Jahre Mitgliedsbeitrag 6,00 €/Monat (72,00 €/Jahr)
 
 Bei Rückfragen stehen wir Euch gerne zur Verfügung. 
 
