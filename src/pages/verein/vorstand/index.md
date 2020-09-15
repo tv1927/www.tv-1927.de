@@ -5,13 +5,12 @@ title: Der Vorstand
 ---
 ### 1. Vorsitzender
 
-Willi Henn
-Hochstr. 2
+Rilana Steinborn Henn Hauptstrasse 22
 55483 Heinzenbach
 
 ### 2. Vorsitzende
 
-Rilana Steinborn
+Pascal Klein
 
 ### Geschäftsführung
 
@@ -25,28 +24,36 @@ Markus Dämgen
 
 Andreas Kasper
 
-### Beisitzer (Orga-Team) 
+### Beisitzer (Orga-Team)
 
 Michael Rockenbach, Diana Henn, Johannes Vischer
 
-### Beisitzer (Fußball) 
+### Beisitzer (Fußball)
 
 Andreas Roos
 
-### Beisitzer (Hallen-/Gerätewart Turnhalle) 
+### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
 Alexander Schinko
 
-### Beisitzer (Hallen-/Gerätewart Vereinsheim) 
+### Beisitzer (Hallen-/Gerätewart Vereinsheim)
 
 Patrick Sehn-Henn
 
-### Beisitzer (Turnen & Tanz) 
+### Beisitzer (Turnen & Tanz)
 
 Anja Rau
 
-### Beisitzer### 
+### Beisitzer###
 
 Denise Hammen
 
-Stand: April 2020
+### Beisitzer###
+
+Jessica Poh
+
+### Beisitzer###
+
+Marcel Klein
+
+Stand: September 2020
