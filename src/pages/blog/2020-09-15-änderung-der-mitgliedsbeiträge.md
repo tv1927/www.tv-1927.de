@@ -23,6 +23,8 @@ Diese Anpassung der Beiträge ist für uns als Verein der dem Sportbund Rheinla
 
 Die Anhebung der Mitgliedsbeiträge betrifft NUR AKTIVE Mitglieder. Unter „aktive Mitglieder“ fallen Mitglieder, die im sportlichen Bereich des TV Unzenberg/Heinzenbach einen Betreuer oder Trainer in Anspruch nehmen. Alle anderen Beiträge wie z.B. passive Mitglieder oder der Familienbeitrag bleiben von der Anpassung unberührt!
 
+
+
 Die Beiträge werden 2020 wie folgt angepasst:
 
 **AKTIVE** 
