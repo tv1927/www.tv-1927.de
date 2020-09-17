@@ -7,7 +7,7 @@ unpublishdate: 2020-09-05T21:59:00.000Z
 description: >-
   Einladung & Neuer Termin für die Jahreshauptversammlung 2020. Am Samstag, 05.
   September 2020 um 19.00 Uhr, findet die Jahreshauptversammlung 2020 statt.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
   - Jahreshauptversammlung
