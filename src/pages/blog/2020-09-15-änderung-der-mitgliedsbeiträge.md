@@ -7,7 +7,7 @@ unpublishdate: 2021-01-02T16:51:59.464Z
 description: |+
   Die Mitgliedsbeiträge wurden angepasst.
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
   - Mitgliedsbeiträge
