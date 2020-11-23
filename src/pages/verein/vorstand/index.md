@@ -37,9 +37,9 @@ Andreas Roos
 
 Alexander Schinko
 
-### Beisitzer (Hallen-/Gerätewart Vereinsheim)
+### Beisitzer
 
-Patrick Sehn-Henn
+zur Zeit nicht besetzt
 
 ### Beisitzer (Turnen & Tanz)
 
