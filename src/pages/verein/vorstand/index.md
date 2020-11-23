@@ -37,10 +37,6 @@ Andreas Roos
 
 Alexander Schinko
 
-### Beisitzer
-
-zur Zeit nicht besetzt
-
 ### Beisitzer (Turnen & Tanz)
 
 Anja Rau
@@ -56,5 +52,9 @@ Jessica Poh
 ### Beisitzer###
 
 Marcel Klein
+
+### Beisitzer
+
+zur Zeit nicht besetzt
 
 Stand: November 2020
