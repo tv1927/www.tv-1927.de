@@ -7,8 +7,10 @@ unpublishdate: 2021-05-31T09:54:37.777Z
 description: >-
   Yeah, wir sind dabei. 
 
-  Wir veranstalten in Zusammenarbeit mit der Dürener Fußballschule vom 26.05. -
-  29.05.2021 (Pfingsten) ein Fußballcamp.
+  Wir veranstalten in Zusammenarbeit mit der Dürener Fußballschule vom 
+
+  26.05. - 29.05.2021 (Pfingsten) auf unserem Sportplatz in Unzenberg ein
+  Fußballcamp.
 featuredpost: true
 featuredimage: /img/shutterstock_1086732707.jpg
 tags:
