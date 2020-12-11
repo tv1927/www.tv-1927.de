@@ -5,7 +5,7 @@ startdate: 2020-09-17T13:44:07.106Z
 publishdate: 2020-09-17T13:44:07.167Z
 unpublishdate: 2020-10-04T13:44:07.210Z
 description: ':-('
-featuredpost: true
+featuredpost: false
 featuredimage: /img/og-image.png
 tags:
   - Absage
