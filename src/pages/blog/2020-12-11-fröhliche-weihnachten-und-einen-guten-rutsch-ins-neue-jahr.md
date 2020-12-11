@@ -8,10 +8,12 @@ description: >-
   Der Vorstand wünscht allen Freunden, Bekannten und deren Familien eine schöne
   Weihnachtszeit
 featuredpost: true
-featuredimage: /img/verein-index.png
+featuredimage: /img/merrychristmas.jpg
 tags:
   - Weihnachten
 ---
 und einen guten Rutsch ins Jahr 2021.
+
+![](/img/weihnachtsmann_tanzt.jpg)
 
 Wir freuen uns auf spannende Sportveranstaltungen 2021.
