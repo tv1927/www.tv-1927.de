@@ -2,9 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 
-import AreaFeatures from '../components/AreaFeatures'
+// import AreaFeatures from '../components/AreaFeatures'
 import Layout from '../components/Layout'
-import Features from '../components/Features'
+// import Features from '../components/Features'
 import BlogNews from '../components/BlogNews'
 
 export const IndexPageTemplate = ({

@@ -63,7 +63,7 @@ const Footer = class extends React.Component {
                 <section>
                   <ul className="menu-list">
                     <li>
-                      <a className="navbar-item" target="_blank" href="https://www.facebook.com/TV.Unzenberg.Heinzenbach/">
+                      <a className="navbar-item" target="_blank" rel="noreferrer" href="https://www.facebook.com/TV.Unzenberg.Heinzenbach/">
                         Finde uns auf <strong>Facebook</strong>!
                       </a>
                     </li>
