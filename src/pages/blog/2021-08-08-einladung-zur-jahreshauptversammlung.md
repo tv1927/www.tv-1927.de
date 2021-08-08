@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Einladung zur Jahreshauptversammlung am Freitag, 03.09.2021
+title: Einladung zur Jahreshauptversammlung 2021
 startdate: 2021-08-08T09:30:08.256Z
 publishdate: 2021-08-08T09:30:08.328Z
 unpublishdate: 2021-09-05T09:30:08.350Z
