@@ -8,7 +8,7 @@ description: Am Freitag, 03. September 2021 / 19.30 Uhr, findet die
   Jahreshauptversammlung 2021 in der Turnhalle in Unzenberg statt. Die aktuell
   geltenden Corona-Regeln werden eingehalten.
 featuredpost: true
-featuredimage: /img/og-image.png
+featuredimage: /img/favicon-32x32.png
 ---
 ***Tagesordnung:***
 
