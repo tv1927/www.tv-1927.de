@@ -10,7 +10,7 @@ description: >-
   Wir veranstalten in Zusammenarbeit mit der Dürener Fußballschule vom 
 
   26.05. - 29.05.2021 (nach Pfingsten) auf unserem Sportplatz in Unzenberg ein Fußballcamp.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/shutterstock_1086732707.jpg
 tags:
   - Fussball
