@@ -1,12 +1,18 @@
 ---
 templateKey: blog-post
-title: Einladung zur Jahreshauptversammlung 2021
+title: "UPDATE ORT: Einladung zur Jahreshauptversammlung 2021 "
 startdate: 2021-08-08T09:30:08.256Z
 publishdate: 2021-08-08T09:30:08.328Z
 unpublishdate: 2021-09-05T09:30:08.350Z
-description: Am Freitag, 03. September 2021 / 19.30 Uhr, findet die
-  Jahreshauptversammlung 2021 in der Turnhalle in Unzenberg statt. Die aktuell
-  geltenden Corona-Regeln werden eingehalten.
+description: >+
+  ‼️ Update: ‼️ Die Jahreshauptversammlung findet heute um 19.30 Uhr VOR dem
+  Sportlerheim in Unzenberg statt. Bringt euch also eine Jacke mit 🙂 
+
+  Wir sehen uns später, Der Vorstand
+
+
+  Am Freitag, 03. September 2021 / 19.30 Uhr, findet die Jahreshauptversammlung 2021 in der Turnhalle in Unzenberg statt. Die aktuell geltenden Corona-Regeln werden eingehalten.
+
 featuredpost: true
 featuredimage: /img/og-image.png
 ---
