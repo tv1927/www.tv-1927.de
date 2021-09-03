@@ -5,11 +5,8 @@ startdate: 2021-08-08T09:30:08.256Z
 publishdate: 2021-08-08T09:30:08.328Z
 unpublishdate: 2021-09-05T09:30:08.350Z
 description: >+
-  ‼️ Update: Die Jahreshauptversammlung findet heute um 19.30 Uhr VOR dem
-  Sportlerheim in Unzenberg statt. Bringt euch also eine Jacke mit ‼️ 
-
-
-  Am Freitag, 03. September 2021 / 19.30 Uhr, findet die Jahreshauptversammlung 2021 in der Turnhalle in Unzenberg statt. Die aktuell geltenden Corona-Regeln werden eingehalten.
+  ‼️ Update: Die Jahreshauptversammlung findet heute, 03.09.2021 um 19.30 Uhr
+  VOR dem Sportlerheim in Unzenberg statt. Bringt euch also eine Jacke mit ‼️ 
 
 featuredpost: true
 featuredimage: /img/og-image.png
