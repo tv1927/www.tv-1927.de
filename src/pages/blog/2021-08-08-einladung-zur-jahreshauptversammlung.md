@@ -8,7 +8,7 @@ description: >+
   ‼️ Update: Die Jahreshauptversammlung findet heute, 03.09.2021 um 19.30 Uhr
   VOR dem Sportlerheim in Unzenberg statt. Bringt euch also eine Jacke mit ‼️ 
 
-featuredpost: true
+featuredpost: false
 featuredimage: /img/og-image.png
 ---
 ***Tagesordnung:***
