@@ -12,6 +12,6 @@ description: >-
 featuredpost: true
 featuredimage: /img/tanzen-grid.jpg
 ---
-Die Showtanzgruppe Butterflies trainiert immer Mittwochs von 17-18Uhr und freut sich auf neue Mitglieder.🦋
+Die Showtanzgruppe Butterflies trainiert immer Mittwochs von 17-18 Uhr und freut sich auf neue Mitglieder.🦋
 
 Meldet euch einfach per Email an unzenberg-tanzen@gmx.de oder per WhatsApp unter der Nummer 01575-8225063.
