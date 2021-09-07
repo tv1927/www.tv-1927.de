@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "UPDATE ORT: Einladung zur Jahreshauptversammlung 2021 "
 startdate: 2021-08-08T09:30:08.256Z
 publishdate: 2021-08-08T09:30:08.328Z
-unpublishdate: 2021-09-05T09:30:08.350Z
+unpublishdate: 2021-09-07T09:55:14.088Z
 description: >+
   ‼️ Update: Die Jahreshauptversammlung findet heute, 03.09.2021 um 19.30 Uhr
   VOR dem Sportlerheim in Unzenberg statt. Bringt euch also eine Jacke mit ‼️ 
