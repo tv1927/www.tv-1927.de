@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Fröhliche Weihnachten und einen guten Rutsch
 startdate: 2021-12-19T12:15:43.536Z
-publishdate: 2021-12-12T12:15:43.584Z
+publishdate: 2021-12-19T12:15:43.584Z
 unpublishdate: 2022-01-02T12:15:43.619Z
 description: Der Vorstand wünscht allen Freunden, Bekannten und deren Familien
   eine schöne Weihnachtszeit
