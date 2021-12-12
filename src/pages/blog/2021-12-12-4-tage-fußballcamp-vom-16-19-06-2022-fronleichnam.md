@@ -10,7 +10,7 @@ description: >-
   Wir veranstalten in Zusammenarbeit mit der Dürener Fußballschule vom 
 
   16.06. - 19.06.2022 (Fronleichnam) auf unserem Sportplatz in Unzenberg ein Fußballcamp.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/fussball-grid.jpg
 tags:
   - Fussball
