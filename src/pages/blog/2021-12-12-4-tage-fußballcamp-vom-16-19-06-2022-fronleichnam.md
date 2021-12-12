@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 4-Tage Fußballcamp vom 16.-19.06.2022 (Fronleichnam)
 startdate: 2021-12-12T12:22:05.004Z
 publishdate: 2021-12-12T12:16:35.527Z
-unpublishdate: 2021-12-12T12:16:35.591Z
+unpublishdate: 2022-06-16T11:16:35.591Z
 description: >-
   Yeah, wir sind dabei. 
 
