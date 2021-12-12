@@ -16,6 +16,6 @@ tags:
 ---
 ![](/img/fußballkinder.jpg)
 
-Ab sofort kann man sich online über [https://www.duerenerfussballschule.de/Camps-Anmeldung/ ](https://www.duerenerfussballschule.de/Camps-Anmeldung/) zum Camp anmelden.
+Ab sofort kann man sich online über [<https://www.duerenerfussballschule.de/Camps-Anmeldung/>](<https://www.duerenerfussballschule.de/Camps-Anmeldung/>)  zum Camp anmelden.
 
 Wir sind schon ganz aufgeregt und freuen uns sehr.
