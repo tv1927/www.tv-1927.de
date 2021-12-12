@@ -9,7 +9,7 @@ description: >-
 
 
   Du bist zwischen 10 und 14 Jahren alt und hast Spaß am Tanzen? Dann komm vorbei und lern uns kennen!👯‍♂️👯‍♀️
-featuredpost: true
+featuredpost: false
 featuredimage: /img/tanzen-grid.jpg
 ---
 Die Showtanzgruppe Butterflies trainiert immer Mittwochs von 17-18 Uhr und freut sich auf neue Mitglieder.🦋
