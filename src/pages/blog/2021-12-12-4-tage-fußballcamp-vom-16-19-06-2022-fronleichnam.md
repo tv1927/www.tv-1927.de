@@ -5,16 +5,14 @@ startdate: 2021-12-12T12:22:05.004Z
 publishdate: 2021-12-12T12:16:35.527Z
 unpublishdate: 2022-06-16T11:16:35.591Z
 description: >-
-  Yeah, wir sind dabei. 
+  Yeah, wir veranstalten in Zusammenarbeit mit der Dürener Fußballschule vom 
 
-  Wir veranstalten in Zusammenarbeit mit der Dürener Fußballschule vom 
-
-  16.06. - 19.06.2022 (Fronleichnam) auf unserem Sportplatz in Unzenberg ein Fußballcamp.
+  16.06. - 19.06.2022 (Fronleichnam) auf unserem Sportplatz in Unzenberg ein Fußballcamp für Kinder.
 featuredpost: true
 featuredimage: /img/fussball-grid.jpg
 tags:
   - Fussball
-  - Pfingsten
+  - Fronleichnam
 ---
 ![](/img/fußballkinder.jpg)
 
