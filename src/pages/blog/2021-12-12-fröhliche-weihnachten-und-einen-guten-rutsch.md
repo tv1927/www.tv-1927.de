@@ -15,4 +15,4 @@ und einen guten Rutsch ins Jahr 2022.
 
 ![](/img/weihnachtsmann_tanzt.jpg)
 
-Wir freuen uns auf spannende Sportveranstaltungen 2021.
+Wir freuen uns auf spannende Veranstaltungen 2022.
