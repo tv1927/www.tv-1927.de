@@ -90,23 +90,23 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
 4. Entgegennahme der Jahresberichte, des Kassenprüfberichtes, Entlastung des Vorstandes
 5. Wahl der Hälfte der Vorstandsmitglieder auf zwei Jahre und endet mit den Neuwahlen.
 6. ***in Jahren mit gerader Jahreszahl:***
-7. * 1. Vorsitzende/r
+   * 1. Vorsitzende/r
    * 2. Kassenwart
    * Geschäftsführer /(in)
    * Beisitzer/ (in) (Organisationsteam)
    * Beisitzer/ (in) (AL Fußball)
    * Beisitzer/ (in) (Hallen-/Gerätewart Vereinsheim)
-8. ***in Jahren mit ungerader Jahreszahl:***
-9. * 2. Vorsitzende/r
+7. ***in Jahren mit ungerader Jahreszahl:***
+   * 2. Vorsitzende/r
    * 1. Kassenwart
    * Beisitzer/in (AL Tanz, Turnen, Leichtathletik & Taekwondo)
    * Beisitzer/in (Hallen-/Gerätewart Turnhalle)
    * Beisitzer/in (Organisationsteam)
    * Beisitzer/in (Organisationsteam)
    * Beisitzer/in (Kegeln)
-10. Wahl der Hälfte der Kassenprüfer auf zwei Jahre
-11. Beschlussfassung über vorliegende Anträge und Festsetzung der Mitgliedsbeiträge
-12. Beschlussfassung über Satzungsänderungen
+8. Wahl der Hälfte der Kassenprüfer auf zwei Jahre
+9. Beschlussfassung über vorliegende Anträge und Festsetzung der Mitgliedsbeiträge
+10. Beschlussfassung über Satzungsänderungen
 
 Erzielt ein Bewerber bei den Vorstandswahlen im ersten Wahlgang nicht die Stimmenmehrheit der anwesenden, stimmberechtigten Mitglieder, so gilt im zweiten Wahlgang der Bewerber als gewählt, der die meisten Stimmen auf sich vereinigen kann.
 
