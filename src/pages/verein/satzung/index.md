@@ -82,7 +82,7 @@ Die Jahreshauptversammlung entscheidet mit Stimmenmehrheit der anwesenden, stimm
 
 Mit der Einberufung ist die Tagesordnung mitzuteilen.
 
-<!--\\[if !supportLists]-->2.    <!--\\[endif]-->Die Jahreshauptversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig. In ihr kann nur über Anträge abgestimmt werden, die mindestens zwei Kalendertage vorher schriftlich oder dem Vorstand zu Protokoll gegeben, vorgelegen haben.
+<!--\\\[if !supportLists]-->2.    <!--\\\[endif]-->Die Jahreshauptversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder beschlussfähig. In ihr kann nur über Anträge abgestimmt werden, die mindestens zwei Kalendertage vorher schriftlich oder dem Vorstand zu Protokoll gegeben, vorgelegen haben.
 
 Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 2/3 Mehrheit anerkennt. Falls mindestens fünf Mitglieder geheime Abstimmung beantragen, muss geheim abgestimmt werden. Die Vorschläge für die Vorstandwahl können schriftlich oder mündlich vorgebracht werden. Als Vorstandsmitglieder sind Mitglieder vom vollendeten 18. Lebensjahr an wählbar.
 
@@ -90,15 +90,15 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
 4. Entgegennahme der Jahresberichte, des Kassenprüfberichtes, Entlastung des Vorstandes
 5. Wahl der Hälfte der Vorstandsmitglieder auf zwei Jahre und endet mit den Neuwahlen.
 6. ***in Jahren mit gerader Jahreszahl:***
+
    * 1. Vorsitzende/r
    * 2. Kassenwart
    * Geschäftsführer /(in)
    * Beisitzer/ (in) (Organisationsteam)
    * Beisitzer/ (in) (AL Fußball)
    * Beisitzer/ (in) (Hallen-/Gerätewart Vereinsheim)
-
-
 7. ***in Jahren mit ungerader Jahreszahl:***
+
    * 2. Vorsitzende/r
    * 1. Kassenwart
    * Beisitzer/in (AL Tanz, Turnen, Leichtathletik & Taekwondo)
