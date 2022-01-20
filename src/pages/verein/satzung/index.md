@@ -98,7 +98,8 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
    * Beisitzer/ (in) (AL Fußball)
    * Beisitzer/ (in) (Hallen-/Gerätewart Vereinsheim)
 
-5. ***in Jahren mit ungerader Jahreszahl:***
+
+7. ***in Jahren mit ungerader Jahreszahl:***
 
    * Zweite(r) Vorsitzende/r
    * Erste(r) Kassenwart
@@ -107,9 +108,9 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
    * Beisitzer/in (Organisationsteam)
    * Beisitzer/in (Organisationsteam)
    * Beisitzer/in (Kegeln)
-6. Wahl der Hälfte der Kassenprüfer auf zwei Jahre
-7. Beschlussfassung über vorliegende Anträge und Festsetzung der Mitgliedsbeiträge
-8. Beschlussfassung über Satzungsänderungen
+8. Wahl der Hälfte der Kassenprüfer auf zwei Jahre
+9. Beschlussfassung über vorliegende Anträge und Festsetzung der Mitgliedsbeiträge
+10. Beschlussfassung über Satzungsänderungen
 
 Erzielt ein Bewerber bei den Vorstandswahlen im ersten Wahlgang nicht die Stimmenmehrheit der anwesenden, stimmberechtigten Mitglieder, so gilt im zweiten Wahlgang der Bewerber als gewählt, der die meisten Stimmen auf sich vereinigen kann.
 
