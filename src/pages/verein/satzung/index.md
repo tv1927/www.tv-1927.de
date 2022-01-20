@@ -90,15 +90,16 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
 4. Entgegennahme der Jahresberichte, des Kassenprüfberichtes, Entlastung des Vorstandes
 5. Wahl der Hälfte der Vorstandsmitglieder auf zwei Jahre und endet mit den Neuwahlen.
 6. ***in Jahren mit gerader Jahreszahl:***
-   * 1. Vorsitzende/r
-   * 2. Kassenwart
+   *1. Vorsitzende/r
+   *2. Kassenwart
    * Geschäftsführer /(in)
    * Beisitzer/ (in) (Organisationsteam)
    * Beisitzer/ (in) (AL Fußball)
    * Beisitzer/ (in) (Hallen-/Gerätewart Vereinsheim)
+
 7. ***in Jahren mit ungerader Jahreszahl:***
-   * 2. Vorsitzende/r
-   * 1. Kassenwart
+   *2. Vorsitzende/r
+   *1. Kassenwart
    * Beisitzer/in (AL Tanz, Turnen, Leichtathletik & Taekwondo)
    * Beisitzer/in (Hallen-/Gerätewart Turnhalle)
    * Beisitzer/in (Organisationsteam)
