@@ -5,7 +5,7 @@ title: Impressum
 ---
 TV 1927 Unzenberg / Heinzenbach e. V.
 
-&#8291;1. Vorsitzende: Rilana Steinborn, Hauptstrasse 22, 55483 Unzenberg E-Mail: info@tv-1927.de
+&#8291;1. Vorsitzende: Rilana Steinborn, Hauptstrasse 22, 55483 Unzenberg 
 Telefon: +49 160 5765344
 
 Vertretungsberechtigter Vorstand: Rilana Steinborn
