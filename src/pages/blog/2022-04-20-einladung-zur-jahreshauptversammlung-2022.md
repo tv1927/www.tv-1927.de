@@ -11,4 +11,30 @@ featuredimage: /img/apple-touch-icon.png
 tags:
   - Jahreshauptversammlung
 ---
-Die Tagesordnung folgt.
+**Tagesordnung:**
+
+1. Eröffnung und Begrüßung
+2. Totenehrung
+3. Jahresrückblick
+4. Jahresberichte
+5. Aussprache zu den Berichten
+6. Bericht der Kassenprüfer
+7. Entlastung des Vorstandes
+8. Beschlussfassung über vorliegende Anträge\
+   (Diese Anträge müssen spätestens 2 Tage vor der Versammlung bei der 1. Vorsitzenden vorliegen).
+9. Bestimmung eines/einer Wahlleiter/in
+10. Vorstandswahlen
+
+    10.1 1. Vorsitzende/r
+
+    10.2 2. Kassenwart
+
+    10.3 Geschäftsführer/in
+
+    10.4 Beisitzer/in (Orga-Team)
+
+    10.5 Beisitzer/in Hallenwart
+
+    10.6 Beisitzer (AL Fußball)
+11. Wahl der Kassenprüfer/in
+12. Verschiedenes
