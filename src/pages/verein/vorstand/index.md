@@ -15,7 +15,7 @@ Pascal Klein
 
 ### Geschäftsführung
 
-Roman Henn
+vakant - kommissarisch durch Anja Rau
 
 ### 1. Kassenwart
 
