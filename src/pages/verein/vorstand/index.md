@@ -53,4 +53,8 @@ Marcel Klein
 
 zur Zeit nicht besetzt
 
-Stand: November 2021
+### Beisitzer
+
+zur Zeit nicht besetzt
+
+Stand: Juni 2022
