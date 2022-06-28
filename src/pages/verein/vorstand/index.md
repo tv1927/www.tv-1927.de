@@ -41,19 +41,15 @@ Alexander Schinko
 
 Anja Rau
 
-### Beisitzer###
+### Beisitzer
 
 Denise Hammen
 
-### Beisitzer###
-
-Jessica Poh
-
-### Beisitzer###
+### Beisitzer
 
 Marcel Klein
 
-### Beisitzer###
+### Beisitzer
 
 zur Zeit nicht besetzt
 
