@@ -5,7 +5,7 @@ title: Der Vorstand
 ---
 ### 1. Vorsitzende
 
-Rilana Steinborn, Hauptstrasse 22 
+Andreas Roos, Hambucher Str. 13 
 
 55483 Unzenberg
 
