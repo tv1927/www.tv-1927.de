@@ -5,14 +5,14 @@ title: Impressum
 ---
 TV 1927 Unzenberg / Heinzenbach e. V.
 
-&#8291;1. Vorsitzende: Rilana Steinborn, Hauptstrasse 22, 55483 Unzenberg, 
-Telefon: +49 160 5765344
+&#8291;1. Vorsitzender: Andreas Roos, Hambucher Str. 13, 55483 Unzenberg  
+Telefon: +49 171 263 7582
 
-Vertretungsberechtigter Vorstand: Rilana Steinborn
+Vertretungsberechtigter Vorstand: Andreas Roos
 
 Registergericht: Amtsgericht Bad Kreuznach / Registernummer: VR 562
 
-Inhaltlicher Verantwortlicher gemäß § 55 Abs. 2 RStV: Rilana Steinborn
+Inhaltlicher Verantwortlicher gemäß § 55 Abs. 2 RStV: Andreas Roos
 
 ### Haftungshinweis:
 
