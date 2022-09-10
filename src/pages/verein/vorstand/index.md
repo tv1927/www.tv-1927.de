@@ -3,7 +3,7 @@ templateKey: info-page
 path: /verein/vorstand
 title: Der Vorstand
 ---
-### 1. Vorsitzende
+### 1. Vorsitzender
 
 Andreas Roos, Hambucher Str. 13 
 
