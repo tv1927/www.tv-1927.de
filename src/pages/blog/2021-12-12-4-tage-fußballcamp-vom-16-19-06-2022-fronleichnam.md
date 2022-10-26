@@ -9,7 +9,7 @@ description: >-
   vom 
 
   16.06. - 19.06.2022 (Fronleichnam) auf unserem Sportplatz in Unzenberg ein Fußballcamp für Kinder.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/fussball-grid.jpg
 tags:
   - Fussball
