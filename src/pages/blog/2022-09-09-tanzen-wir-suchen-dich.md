@@ -6,7 +6,7 @@ publishdate: 2022-09-09T06:03:10.488Z
 unpublishdate: 2022-11-01T07:03:10.495Z
 description: Der TV Unzenberg Heinzenbach hat Tanzgruppen fast jeden Alters zu
   bieten und wir würden uns freuen wenn du dabei bist!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/tanzen-grid.jpg
 ---
 Aktuell würde sich die Tanzgruppe Butterflies über Tanzbegeisterte im Alter von 10 bis 14 Jahren sehr freuen.
