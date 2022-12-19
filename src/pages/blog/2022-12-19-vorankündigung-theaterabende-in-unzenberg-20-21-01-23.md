@@ -4,7 +4,7 @@ title: Vorankündigung Theaterabende in Unzenberg 20. & 21.01.2023
 startdate: 2023-01-20T19:22:00.000Z
 publishdate: 2022-12-19T16:22:02.725Z
 unpublishdate: 2023-01-22T16:22:02.748Z
-description: Vorankündigung Theaterabende in Unzenberg 20.& 21.01.2023
+description: Vorankündigung Theaterabende in Unzenberg 20. & 21.01.2023
 featuredpost: true
 featuredimage: /img/theater-grid.jpg
 ---
