@@ -31,7 +31,7 @@ Michael Rockenbach, Diana Henn, Johannes Vischer
 
 ### Beisitzer (Fußball)
 
-Andreas Roos
+zur Zeit nicht besetzt
 
 ### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
