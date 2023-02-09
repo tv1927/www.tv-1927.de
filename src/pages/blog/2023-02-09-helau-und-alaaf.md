@@ -9,3 +9,5 @@ featuredpost: true
 featuredimage: /img/kinderfastnacht2023.jpeg
 ---
 Hellauuuu! Wir freuen uns auf viele verkleidete Kinder, Eltern und Familien.
+
+![](/img/kinderfastnacht2023.jpeg)
