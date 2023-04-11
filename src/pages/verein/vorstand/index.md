@@ -27,7 +27,7 @@ Andreas Kasper
 
 ### Beisitzer (Orga-Team)
 
-Michael Rockenbach, Diana Henn, Johannes Vischer
+Michael Rockenbach, Diana Keienburg, Johannes Vischer
 
 ### Beisitzer (Fußball)
 
