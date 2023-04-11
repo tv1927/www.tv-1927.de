@@ -4,7 +4,8 @@ title: Eltern-Kind-Turnen
 startdate: 2023-04-17T16:22:59.133Z
 publishdate: 2023-03-15T17:16:24.350Z
 unpublishdate: 2023-06-01T16:17:24.908Z
-description: NEU ab 17.04.2023 in der Turnhalle Unzenberg
+description: "ACHTUNG: Aktuell sind alle Plätze vergeben. Anfragen für die
+  Warteliste gerne an die genannte eMail-Adresse."
 featuredpost: true
 featuredimage: /img/turnen-grid.jpg
 ---
