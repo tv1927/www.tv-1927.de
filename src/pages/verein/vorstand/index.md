@@ -27,11 +27,15 @@ Andreas Kasper
 
 ### Beisitzer (Orga-Team)
 
-Michael Rockenbach, Diana Keienburg, Johannes Vischer
+Michael Rockenbach
 
-### Beisitzer (Fußball)
+### Beisitzer (Orga-Team)
 
-zur Zeit nicht besetzt
+Diana Keienburg
+
+### Beisitzer (Orga-Team)
+
+Johannes Vischer
 
 ### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
@@ -41,7 +45,7 @@ Alexander Schinko
 
 Anja Rau
 
-### Beisitzer
+### Beisitzer (Kegeln)
 
 Denise Hammen
 
@@ -49,11 +53,7 @@ Denise Hammen
 
 Marcel Klein
 
-### Beisitzer
-
-zur Zeit nicht besetzt
-
-### Beisitzer
+### Beisitzer (Fußball)
 
 zur Zeit nicht besetzt
 
