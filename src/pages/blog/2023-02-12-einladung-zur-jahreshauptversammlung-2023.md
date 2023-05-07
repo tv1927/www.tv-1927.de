@@ -6,7 +6,7 @@ publishdate: 2023-02-12T12:54:42.108Z
 unpublishdate: 2023-03-26T11:52:58.924Z
 description: Am Samstag, 25. März 2023 um 18.30 Uhr, findet die
   Jahreshauptversammlung 2023 im Sportlerheim in Unzenberg statt.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/og-image.png
 ---
 ### Tagesordnung:
