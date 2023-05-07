@@ -11,4 +11,6 @@ featuredimage: /img/mitgliedsformular_tv-1927-unzenberg.jpg
 ---
 Hier unsere eMail Adresse: [tvunzenbergheinzenbach@gmail.com](<mailto: tvunzenbergheinzenbach@gmail.com>)
 
+Wir arbeiten gerade daran, das auch als .pdf auf die Webseite zu stellen.
+
 ![](/img/mitgliedsformular_tv-1927-unzenberg.jpg)
