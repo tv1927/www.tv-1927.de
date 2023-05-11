@@ -10,9 +10,8 @@ featuredimage: /img/mitgliedsformular_tv-1927-unzenberg.jpg
 ---
 Dann schickt uns das ausgefüllt- und unterschriebene Formular doch bitte an unsere eMail Adresse [tvunzenbergheinzenbach@gmail.com](<mailto: tvunzenbergheinzenbach@gmail.com>) oder gebt es beim Trainer:in ab.
 
-```
-https://www.tv-1927.de/Mitgliedsformular-TV-1927.pdf
-```
+Hier gehts zum Download\
+<https://www.tv-1927.de/Mitgliedsformular-TV-1927.pdf>
 
 
 
