@@ -15,19 +15,15 @@ Pascal Klein
 
 ### Geschäftsführung
 
-vakant - kommissarisch durch Anja Rau
+Anja Rau
 
 ### 1. Kassenwart
 
-Markus Dämgen
+Michael Rockenbach
 
 ### 2. Kassenwart
 
 Andreas Kasper
-
-### Beisitzer (Orga-Team)
-
-Michael Rockenbach
 
 ### Beisitzer (Orga-Team)
 
@@ -37,21 +33,25 @@ Diana Keienburg
 
 Johannes Vischer
 
+### Beisitzer (Orga-Team)
+
+vacant - zur Zeit nicht besetzt
+
 ### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
 Alexander Schinko
 
-### Beisitzer (Turnen & Tanz)
-
-Anja Rau
-
-### Beisitzer (Kegeln)
-
-Denise Hammen
-
 ### Beisitzer
 
 Marcel Klein
+
+### Beisitzer (Turnen & Tanz)
+
+vacant - zur Zeit nicht besetzt
+
+### Beisitzer (Kegeln)
+
+vacant - zur Zeit nicht besetzt
 
 ### Beisitzer (Fußball)
 
