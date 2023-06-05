@@ -33,10 +33,6 @@ Diana Keienburg
 
 Johannes Vischer
 
-### Beisitzer (Orga-Team)
-
-vacant - zur Zeit nicht besetzt
-
 ### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
 Alexander Schinko
@@ -44,6 +40,10 @@ Alexander Schinko
 ### Beisitzer
 
 Marcel Klein
+
+### Beisitzer (Orga-Team)
+
+vacant - zur Zeit nicht besetzt
 
 ### Beisitzer (Turnen & Tanz)
 
