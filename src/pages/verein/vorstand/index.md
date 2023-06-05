@@ -57,6 +57,4 @@ vacant - zur Zeit nicht besetzt
 
 vacant - zur Zeit nicht besetzt
 
-
-
 \    Stand: Juni 2023
