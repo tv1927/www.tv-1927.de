@@ -55,7 +55,7 @@ vacant - zur Zeit nicht besetzt
 
 ### Beisitzer (Fußball)
 
-zur Zeit nicht besetzt
+vacant - zur Zeit nicht besetzt
 
 
 
