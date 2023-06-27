@@ -8,6 +8,6 @@ description: Wer hat Lust uns im Trainerteam zu unterstützen?
 featuredpost: true
 featuredimage: /img/tanzen-grid.jpg
 ---
-Dann melde Dich gerne unter [mail to: unzenberg-tanzen@gmx.de](<mail to: unzenberg-tanzen@gmx.de>)
+Dann melde Dich gerne unter <mailto:unzenberg-tanzen@gmx.de>
 
 ![](/img/showtanztrainersuche06_2023.jpeg)
