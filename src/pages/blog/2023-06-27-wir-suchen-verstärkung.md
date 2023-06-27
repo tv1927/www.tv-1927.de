@@ -10,4 +10,6 @@ featuredimage: /img/tanzen-grid.jpg
 ---
 Dann melde Dich doch einfach unter <mailto:unzenberg-tanzen@gmx.de>
 
+Wir freuen uns auf Dich!
+
 ![](/img/showtanztrainersuche06_2023.jpeg)
