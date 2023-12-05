@@ -4,7 +4,7 @@ title: Theaterabende in Unzenberg am 19. & 20.01.2024
 startdate: 2024-01-19T14:30:51.172Z
 publishdate: 2023-12-05T14:35:12.748Z
 unpublishdate: 2024-01-21T11:41:47.677Z
-description: Theaterabende in Unzenberg 19. & 20.01.2024
+description: .
 featuredpost: true
 featuredimage: /img/theater-grid.jpg
 ---
