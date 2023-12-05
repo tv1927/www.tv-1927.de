@@ -6,9 +6,9 @@ publishdate: 2023-12-05T14:35:12.748Z
 unpublishdate: 2024-01-21T11:41:47.677Z
 description: Theaterabende in Unzenberg 19. & 20.01.2024
 featuredpost: true
-featuredimage: /img/theater-2024.jpg
+featuredimage: /img/theater-grid.jpg
 ---
-![](/img/theater-grid.jpg)
+![](/img/theater-2024.jpg)
 
 Am **Freitag, 19. und Samstag, 20.01.2024** führt die Theatergruppe des TV Unzenberg/Heinzenbach eine Komödie in 3 Akten mit dem Titel **„Die (un)heimlichen Dickmacher“** von **Bernd Kietzke**in der **Turnhalle in Unzenberg** auf.
 
