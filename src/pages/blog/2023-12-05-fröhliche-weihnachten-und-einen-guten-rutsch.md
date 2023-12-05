@@ -11,7 +11,7 @@ featuredimage: /img/merrychristmas.jpg
 tags:
   - Weihnachten
 ---
-und einen guten Rutsch ins Jahr 2024.
+
 
 ![](/img/weihnachtsmann_tanzt.jpg)
 
