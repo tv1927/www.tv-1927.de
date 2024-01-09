@@ -8,7 +8,7 @@ description: Achtung, aufgepasst!
 featuredpost: true
 featuredimage: /img/theater-grid.jpg
 ---
-![](/img/theatergruppe2024.jpg)
+![](/img/theatergruppe2024.jpg "Theatergruppe 2024 ")
 
 ![](/img/theater-2024.jpg)
 
