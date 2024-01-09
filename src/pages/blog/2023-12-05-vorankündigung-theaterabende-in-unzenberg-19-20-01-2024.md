@@ -8,7 +8,11 @@ description: Achtung, aufgepasst!
 featuredpost: true
 featuredimage: /img/theater-grid.jpg
 ---
+![](/img/theatergruppe2024.jpg)
+
 ![](/img/theater-2024.jpg)
+
+![]()
 
 Am **Freitag, 19. und Samstag, 20.01.2024** führt die Theatergruppe des TV Unzenberg/Heinzenbach eine Komödie in 3 Akten mit dem Titel **„Die (un)heimlichen Dickmacher“** von **Bernd Kietzke** in der **Turnhalle in Unzenberg** auf.
 
