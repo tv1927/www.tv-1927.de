@@ -6,7 +6,7 @@ publishdate: 2024-02-19T16:01:27.384Z
 unpublishdate: 2024-03-24T16:01:27.392Z
 description: Die Jahreshauptversammlung des TV Unzenberg / Heinzenbach findet am
   Samstag, 23. März 2024 um 19.00 Uhr im Sportlerheim in Unzenberg statt.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/og-image.png
 ---
 ### Die Tagesordnung folgt.
