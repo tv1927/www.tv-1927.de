@@ -97,8 +97,6 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
    * Beisitzer/ (in) (Organisationsteam)
    * Beisitzer/ (in) (AL Fußball)
    * Beisitzer/ (in) (Hallen-/Gerätewart Vereinsheim)
-
-
 7. ***in Jahren mit ungerader Jahreszahl:***
 
    * Zweite(r) Vorsitzende/r
@@ -124,7 +122,7 @@ Der Vorstand besteht aus dem 1. und 2. Vorsitzenden, dem Geschäftsführer, dem 
 
 **§ 13 - Vorstand im Sinne des BGB**
 
-Der Verein wird gerichtlich und außergerichtlich durch den 1.Vorsitzenden oder in dessen Vertretung vom 2. Vorsitzenden vertreten. Vorstand im Sinne des Paragraph 26 BGB sind der Vorsitzende und sein Stellvertreter. Im Innenverhältnis zum Verein wird der Stellvertreter jedoch nur bei Verhinderung des 1. Vorsitzenden tätig.
+Der Verein wird gerichtlich und außergerichtlich durch den 1. Vorsitzenden oder in dessen Vertretung vom 2. Vorsitzenden vertreten. Vorstand im Sinne des Paragraph 26 BGB sind der Vorsitzende und sein Stellvertreter. Im Innenverhältnis zum Verein wird der Stellvertreter jedoch nur bei Verhinderung des 1. Vorsitzenden tätig.
 
 **§ 14 - Aufgaben des Vorstandes**
 
