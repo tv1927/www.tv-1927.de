@@ -37,7 +37,7 @@ Johannes Vischer
 
 Alexander Schinko
 
-### Beisitzer
+### Beisitzer (Fußball)
 
 Marcel Klein
 
@@ -53,7 +53,7 @@ vacant - zur Zeit nicht besetzt
 
 vacant - zur Zeit nicht besetzt
 
-### Beisitzer (Fußball)
+### Beisitzer 
 
 vacant - zur Zeit nicht besetzt
 
