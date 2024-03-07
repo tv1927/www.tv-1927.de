@@ -39,7 +39,7 @@ featuredimage: /img/og-image.png
 
 10.4 Beisitzer/in (Orga-Team) 
 
-10.5 Beisitzer/in Vereinsheim 
+10.5 Beisitzer/in (Hallen-/Gerätewart Vereinsheim)  
 
 10.6 Beisitzer (AL Fußball) 
 
