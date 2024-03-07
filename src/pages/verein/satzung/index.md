@@ -97,6 +97,8 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
    * Beisitzer/ (in) (Organisationsteam)
    * Beisitzer/ (in) (AL Fußball)
    * Beisitzer/ (in) (Hallen-/Gerätewart Vereinsheim)
+
+
 7. ***in Jahren mit ungerader Jahreszahl:***
 
    * Zweite(r) Vorsitzende/r
