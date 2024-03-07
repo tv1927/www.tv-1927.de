@@ -100,7 +100,6 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
 
 
 7. ***in Jahren mit ungerader Jahreszahl:***
-
    * Zweite(r) Vorsitzende/r
    * Erste(r) Kassenwart
    * Beisitzer/in (AL Tanz, Turnen, Leichtathletik & Taekwondo)
