@@ -5,7 +5,7 @@ startdate: 2024-01-19T14:30:51.172Z
 publishdate: 2023-12-05T14:35:12.748Z
 unpublishdate: 2024-01-21T11:41:47.677Z
 description: Achtung, aufgepasst!
-featuredpost: true
+featuredpost: false
 featuredimage: /img/theater-grid.jpg
 ---
 ![](/img/theatergruppe2024.jpg "Theatergruppe 2024 ")
