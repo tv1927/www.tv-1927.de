@@ -6,7 +6,7 @@ publishdate: 2023-12-21T11:54:03.904Z
 unpublishdate: 2024-01-07T11:54:03.910Z
 description: Der Vorstand wünscht allen Freunden, Bekannten und deren Familien
   eine schöne Weihnachtszeit
-featuredpost: true
+featuredpost: false
 featuredimage: /img/merrychristmas.jpg
 tags:
   - Weihnachten
