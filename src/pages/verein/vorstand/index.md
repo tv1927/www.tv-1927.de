@@ -33,28 +33,28 @@ Diana Keienburg
 
 Johannes Vischer
 
+### Beisitzer (Orga-Team)
+
+Judith Schmiedebach
+
 ### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
 Alexander Schinko
+
+### Beisitzer (Vereinsheim)
+
+Christian Klein
 
 ### Beisitzer (Fußball)
 
 Marcel Klein
 
-### Beisitzer (Orga-Team)
-
-vacant - zur Zeit nicht besetzt
-
 ### Beisitzer (Turnen & Tanz)
 
-vacant - zur Zeit nicht besetzt
+Lisa Schmitt
 
-### Beisitzer (Kegeln)
-
-vacant - zur Zeit nicht besetzt
-
-### Beisitzer 
+### Beisitzer
 
 vacant - zur Zeit nicht besetzt
 
-\    Stand: Juni 2023
+\    Stand: April 2024
