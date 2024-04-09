@@ -53,7 +53,7 @@ Marcel Klein
 
 Lisa Schmitt
 
-### Beisitzer
+### Beisitzer (Orga-Team)
 
 vacant - zur Zeit nicht besetzt
 
