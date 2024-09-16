@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: Mitgliedsformular
 startdate: 2024-09-01T12:06:49.596Z
-publishdate: 2023-05-11T15:33:16.713Z
-unpublishdate: 2025-01-01T11:17:00.684Z
+publishdate: 2024-09-16T12:09:00.510Z
+unpublishdate: 2026-01-01T11:17:00.684Z
 description: "Wollt ihr Mitglied in unserem Verein werden? "
 featuredpost: true
 featuredimage: /img/mitgliedsformular_tv-1927-unzenberg.jpg
