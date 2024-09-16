@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Mitgliedsformular
-startdate: 2023-11-01T14:57:06.570Z
+startdate: 2024-09-01T12:06:49.596Z
 publishdate: 2023-05-11T15:33:16.713Z
 unpublishdate: 2025-01-01T11:17:00.684Z
 description: "Wollt ihr Mitglied in unserem Verein werden? "
