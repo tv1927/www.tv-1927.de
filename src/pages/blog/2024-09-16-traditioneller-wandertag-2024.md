@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Traditioneller Wandertag 2024
-startdate: 2024-09-16T11:47:57.885Z
+startdate: 2024-10-03T08:00:57.885Z
 publishdate: 2024-09-16T11:47:57.892Z
 unpublishdate: 2024-10-04T11:47:57.898Z
 description: Liebe Vereinsmitglieder, Freunde und Unterstützer!
