@@ -5,7 +5,7 @@ startdate: 2024-10-03T08:00:57.885Z
 publishdate: 2024-09-16T11:47:57.892Z
 unpublishdate: 2024-10-04T11:47:57.898Z
 description: Liebe Vereinsmitglieder, Freunde und Unterstützer!
-featuredpost: false
+featuredpost: true
 featuredimage: /img/2017-10-03-PHOTO-00000211.jpg
 ---
 Es wird wieder gewandert!
