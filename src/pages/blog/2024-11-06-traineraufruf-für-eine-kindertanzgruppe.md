@@ -14,6 +14,6 @@ description: >
 featuredpost: true
 featuredimage: /img/tanzlehrerinnov2024.jpeg
 ---
-Wir suchen ehrenamtliche Trainer für unsere Tanzgruppe.
+Wir suchen ehrenamtliche Trainer für eine Kinderturngruppe.
 
 ![](/img/tanzlehrerinnov2024.jpeg)
