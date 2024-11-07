@@ -11,7 +11,7 @@ description: >+
 featuredpost: true
 featuredimage: /img/tanzlehrerinnov2024.jpeg
 ---
-Wir suchen ehrenamtliche Trainer für eine Kinderturngruppe. Meldet euch gerne über unser Kontaktformular, Facebook oder über unzenberg-tanzen@gmx.de
+Wir suchen ehrenamtliche Trainer für eine Kinderturngruppe. Meldet euch gerne über unser Kontaktformular, Facebook oder über [unzenberg-tanzen@gmx.de](<mailto: unzenberg-tanzen@gmx.de>).
 Wir freuen uns.
 
 ![](/img/tanzlehrerinnov2024.jpeg)
