@@ -8,7 +8,7 @@ description: Theaterabende in Unzenberg 17. & 18.01.2025
 featuredpost: false
 featuredimage: /img/theater-grid.jpg
 ---
-![]()
+
 
 Am **Freitag, 17. und Samstag, 18.01.2025** führt die Theatergruppe des TV Unzenberg/Heinzenbach einen Schwank in 3 Akten mit dem Titel
 
