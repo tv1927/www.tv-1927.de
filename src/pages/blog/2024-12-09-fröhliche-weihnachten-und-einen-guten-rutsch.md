@@ -7,7 +7,7 @@ unpublishdate: 2025-01-04T16:54:35.315Z
 description: Der Vorstand wünscht allen Freunden, Bekannten und deren Familien
   eine schöne Weihnachtszeit und einen guten Rutsch ins Jahr 2025.
 featuredpost: true
-featuredimage: /img/og-image.png
+featuredimage: /img/wappen.jpg
 tags:
   - Weihnachten
 ---
