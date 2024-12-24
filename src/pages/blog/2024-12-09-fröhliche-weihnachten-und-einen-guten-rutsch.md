@@ -11,8 +11,6 @@ featuredimage: /img/apple-touch-icon.png
 tags:
   - Weihnachten
 ---
-
-
-![](/img/weihnachtsmann_tanzt.jpg)
+![](/img/weihnachtsbaum.jpg)
 
 Wir freuen uns auf spannende Veranstaltungen 2025.
