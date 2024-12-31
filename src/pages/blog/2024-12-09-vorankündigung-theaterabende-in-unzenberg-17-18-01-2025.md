@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Vorankündigung Theaterabende in Unzenberg 17. & 18.01.2025
+title: Theaterabende in Unzenberg 17. & 18.01.2025
 startdate: 2025-01-17T17:00:03.222Z
 publishdate: 2024-12-09T16:57:20.255Z
 unpublishdate: 2025-01-19T16:57:21.988Z
