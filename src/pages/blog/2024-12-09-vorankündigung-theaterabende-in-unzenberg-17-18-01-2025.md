@@ -10,11 +10,7 @@ featuredimage: /img/theater-grid.jpg
 ---
 ![](/img/theater-2025.jpg)
 
-Am **Freitag, 17. und Samstag, 18.01.2025** führt die Theatergruppe des TV Unzenberg/Heinzenbach einen Schwank in 3 Akten mit dem Titel
-
-**„Opa stirbt einfach nicht“** von Erich Koch 
-
-in der **Turnhalle in Unzenberg** auf.
+Am **Freitag, 17. und Samstag, 18.01.2025** führt die Theatergruppe des TV Unzenberg/Heinzenbach einen Schwank in 3 Akten mit dem Titel **„Opa stirbt einfach nicht“** von Erich Koch in der **Turnhalle in Unzenberg** auf.
 
 "Bürgermeister Drescher plant ein Einkaufscenter. Dazu benötigt
 er das Grundstück von Opa Eugen. Doch der verkauft nicht. Daher
