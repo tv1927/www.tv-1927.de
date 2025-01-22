@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Traineraufruf für eine Kinderturngruppe "
-startdate: 2024-11-06T23:18:52.065Z
+startdate: 2024-12-31T23:18:52.065Z
 publishdate: 2024-11-06T23:18:53.263Z
 unpublishdate: 2025-04-30T22:18:54.147Z
 description: >+
