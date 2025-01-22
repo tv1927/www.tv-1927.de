@@ -5,7 +5,7 @@ startdate: 2025-01-17T17:00:03.222Z
 publishdate: 2024-12-09T16:57:20.255Z
 unpublishdate: 2025-01-19T16:57:21.988Z
 description: „Opa stirbt einfach nicht“ von Erich Koch
-featuredpost: true
+featuredpost: false
 featuredimage: /img/theater-grid.jpg
 ---
 ![](/img/theater-2025.jpg)
