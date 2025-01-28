@@ -1,0 +1,16 @@
+name: Nightly Build
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Runs every day at 2 AM UTC (3 or 4 AM in Europe)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@v3
+
+    - name: Trigger Netlify Build
+      run: curl -X POST -d '{}' "https://api.netlify.com/build_hooks/6798da6a188fe73e8660787a"
