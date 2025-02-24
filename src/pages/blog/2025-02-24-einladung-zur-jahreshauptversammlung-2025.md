@@ -48,6 +48,7 @@ featuredimage: /img/og-image.png
 10.8 Beisitzer (Kegeln)
 
 11.  Wahl der Kassenprüfer/in
-12. Ehrungen
+
+12.  Ehrungen
 
 13.  Verschiedenes
