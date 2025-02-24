@@ -45,8 +45,10 @@ featuredimage: /img/og-image.png
 
 10.7 Beisitzer (Hallen- und Gerätewart Turnhalle) 
 
-10.8 Beisitzer 
+10.8 Beisitzer (Kegeln)
 
 11.  Wahl der Kassenprüfer/in
 
-12.  Verschiedenes
+12. Ehrungen
+
+13.  Verschiedenes
