@@ -49,6 +49,6 @@ featuredimage: /img/og-image.png
 
 11.  Wahl der Kassenprüfer/in
 
-12. Ehrungen
+12.  Ehrungen
 
 13.  Verschiedenes
