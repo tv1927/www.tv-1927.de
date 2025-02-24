@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
 title: Einladung zur Jahreshauptversammlung 2025
-startdate: 2025-02-24T09:02:40.566Z
-publishdate: 2025-02-24T09:02:40.573Z
-unpublishdate: 2025-02-24T09:02:40.579Z
+startdate: 2025-03-22T09:08:03.026Z
+publishdate: 2025-02-24T09:08:15.957Z
+unpublishdate: 2025-03-23T09:02:40.579Z
 description: Die Jahreshauptversammlung des TV Unzenberg / Heinzenbach findet am
   Samstag, 22. März 2025 um 19.00 Uhr im Sportlerheim in Unzenberg statt.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/og-image.png
 ---
 ### Tagesordnung
