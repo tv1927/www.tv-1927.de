@@ -51,4 +51,6 @@ featuredimage: /img/og-image.png
 
 12.  Ehrungen
 
-13.  Verschiedenes
+13.  Festlegung der Mitgliederbeiträge
+
+14.  Verschiedenes
