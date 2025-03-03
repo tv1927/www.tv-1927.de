@@ -53,7 +53,7 @@ Marcel Klein
 
 Lisa Schmitt
 
-### Beisitzer 
+### Beisitzer (Kegeln)
 
 vacant - zur Zeit nicht besetzt
 
