@@ -76,7 +76,7 @@ Organe des Vereins sind:
 
 **§ 10 – Jahreshauptversammlung**
 
-Die Jahreshauptversammlung entscheidet mit Stimmenmehrheit der anwesenden, stimmberechtigten Mitglieder. Bei Stimmengleichheit entscheidet die Stimme des 1. Vorsitzenden. Grundsätzlich haben Jugendliche Mitglieder in der Jahreshauptversammlung und bei Wahlen des Vereins kein Stimmrecht. Dies gilt jedoch nicht bei der Wahl zur jeweiligen sportlichen Abteilungsleitung (Fußball, Turn-/ Tanz- und Leichtathletik sowie Kegeln). Hier haben Jugendliche vom vollendeten 14. bis zum 18. Lebensjahr - soweit sie der jeweiligen Abteilung auch tatsächlich zugehörig sind - Stimmrecht. Bei Satzungsänderungen ist die 2/3 Mehrheit der erschienenen stimmberechtigten Mitglieder erforderlich. Bei Abstimmung über außerordentliche Vorhaben des Vereins, welche den Verein in Bezug auf seine weitere Existenzfähigkeit berühren, kann der Vorstand eine größere als einfache Mehrheit fordern.
+Die Jahreshauptversammlung entscheidet mit Stimmenmehrheit der anwesenden, stimmberechtigten Mitglieder. Bei Stimmengleichheit entscheidet die Stimme des 1. Vorsitzenden. Grundsätzlich haben Jugendliche Mitglieder in der Jahreshauptversammlung und bei Wahlen des Vereins kein Stimmrecht. Dies gilt jedoch nicht bei der Wahl zur jeweiligen sportlichen Abteilungsleitung (Fußball, Turn-/ Tanz- und Leichtathletik ). Hier haben Jugendliche vom vollendeten 14. bis zum 18. Lebensjahr - soweit sie der jeweiligen Abteilung auch tatsächlich zugehörig sind - Stimmrecht. Bei Satzungsänderungen ist die 2/3 Mehrheit der erschienenen stimmberechtigten Mitglieder erforderlich. Bei Abstimmung über außerordentliche Vorhaben des Vereins, welche den Verein in Bezug auf seine weitere Existenzfähigkeit berühren, kann der Vorstand eine größere als einfache Mehrheit fordern.
 
 1. Oberstes Organ ist die Jahreshauptversammlung. Sie findet alljährlich im 1. Quartal statt. Die Einberufung erfolgt durch den Vorstand unter Veröffentlichung in dem amtlichen Mitteilungsblatt der Verbandsgemeinde Kirchberg und Simmern. Mitglieder, die außerhalb des Zustellungsbereiches dieser Medien ihren Wohnsitz innehaben, sind schriftlich einzuberufen. Zwischen dem Tag der Einladung und dem Termin der Jahreshauptversammlung muss eine Frist von mindestens sieben Kalendertagen liegen.
 
@@ -97,16 +97,14 @@ Es sei denn, dass die Jahreshauptversammlung die Dringlichkeit des Antrages mit 
    * Beisitzer/ (in) (Organisationsteam)
    * Beisitzer/ (in) (AL Fußball)
    * Beisitzer/ (in) (Hallen-/Gerätewart Vereinsheim)
-
-
 7. ***in Jahren mit ungerader Jahreszahl:***
+
    * Zweite(r) Vorsitzende/r
    * Erste(r) Kassenwart
    * Beisitzer/in (AL Tanz, Turnen, Leichtathletik & Taekwondo)
    * Beisitzer/in (Hallen-/Gerätewart Turnhalle)
    * Beisitzer/in (Organisationsteam)
    * Beisitzer/in (Organisationsteam)
-   * Beisitzer/in (Kegeln)
 8. Wahl der Hälfte der Kassenprüfer auf zwei Jahre
 9. Beschlussfassung über vorliegende Anträge und Festsetzung der Mitgliedsbeiträge
 10. Beschlussfassung über Satzungsänderungen
