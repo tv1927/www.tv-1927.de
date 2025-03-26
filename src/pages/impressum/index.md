@@ -5,14 +5,14 @@ title: Impressum
 ---
 TV 1927 Unzenberg / Heinzenbach e. V.
 
-&#8291;1. Vorsitzender: Andreas Roos, Hambucher Str. 13, 55483 Unzenberg  
-Telefon: +49 171 263 7582
+1. Vorsitzender: Günter Schumann Ringstr, 5  55483 Heinzenbach\
+Telefon: +49 171 1790878
 
-Vertretungsberechtigter Vorstand: Andreas Roos
+Vertretungsberechtigter Vorstand: Günter Schumann
 
 Registergericht: Amtsgericht Bad Kreuznach / Registernummer: VR 562
 
-Inhaltlicher Verantwortlicher gemäß § 55 Abs. 2 RStV: Andreas Roos
+Inhaltlicher Verantwortlicher gemäß § 55 Abs. 2 RStV: Günter Schumann
 
 ### Haftungshinweis:
 
