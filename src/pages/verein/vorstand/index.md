@@ -5,9 +5,9 @@ title: Der Vorstand
 ---
 ### 1. Vorsitzender
 
-Andreas Roos, Hambucher Str. 13 
+G﻿ünter Schumann  Ringstr. 5   
 
-55483 Unzenberg
+55483 Heinzenbach
 
 ### 2. Vorsitzender
 
@@ -27,7 +27,7 @@ Andreas Kasper
 
 ### Beisitzer (Orga-Team)
 
-Diana Keienburg
+N﻿adine Geiger-Almendinger
 
 ### Beisitzer (Orga-Team)
 
@@ -35,11 +35,11 @@ Johannes Vischer
 
 ### Beisitzer (Orga-Team)
 
-Judith Schmiedebach
+P﻿atrick Kaspar
 
 ### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
-Alexander Schinko
+V﻿akant  zur Zeit nicht besetzt
 
 ### Beisitzer (Vereinsheim)
 
@@ -53,8 +53,6 @@ Marcel Klein
 
 Lisa Schmitt
 
-### Beisitzer (Kegeln)
 
-vacant - zur Zeit nicht besetzt
 
-\    Stand: April 2024
+\    Stand: März 2025
