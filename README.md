@@ -1,5 +1,7 @@
 # Web site of TV Unzenberg / Heinzenbach e.V.
 
+**NODE VERSION 10.24.1 used for development!**
+
 **Note:** This web site uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
 This repo contains the website (to be launched end of 2020) for [TV Unzenberg / Heinzenbach e.V.](https://www.tv-1927.de/), that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
@@ -25,8 +27,9 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 ## Prerequisites
 
 - Node (I recommend using v8.2.0 or higher)
-- [Gatsby CLI](https://www.gatsbyjs.org/docs/)
+- [Gatsby CLI](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli/README.md/)
 - [Netlify CLI](https://github.com/netlify/cli)
+- yarn: npm install -g yarn
 
 ## Getting Started (Recommended)
 
