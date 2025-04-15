@@ -2,7 +2,6 @@
 
 **NODE VERSION 10.24.1 used for development!**
 
-(Should try v12.22.12?)
 
 **Note:** This web site uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
@@ -28,9 +27,9 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 
 ## Prerequisites
 
-- Node (I recommend using v8.2.0 or higher)
+- Node v10.1.24
 - [Gatsby CLI](https://github.com/gatsbyjs/gatsby/blob/master/packages/gatsby-cli/README.md/)
-- [Netlify CLI](https://github.com/netlify/cli)
+- (this does not seem to work anymore as of 2025 with node 10.24.1)[Netlify CLI](https://github.com/netlify/cli)
 - yarn: npm install -g yarn
 
 ## Getting Started (Recommended)
@@ -45,7 +44,7 @@ Dev steps:
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
 $ cd [REPO_NAME]
 $ yarn
-$ netlify dev # or ntl dev
+$ npm run develop (previously: netlify dev # or ntl dev)
 ```
 
 This uses the new [Netlify Dev](https://www.netlify.com/products/dev/?utm_source=blog&utm_medium=netlifycms&utm_campaign=devex) CLI feature to serve any functions you have in the `lambda` folder.
@@ -54,7 +53,7 @@ To test the CMS locally, you'll need to run a production build of the site:
 
 ```
 $ npm run build
-$ netlify dev # or ntl dev
+$ npm run develop (previously: netlify dev # or ntl dev)
 ```
 
 ### Setting up the CMS
