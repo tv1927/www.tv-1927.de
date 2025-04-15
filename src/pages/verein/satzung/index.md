@@ -185,6 +185,4 @@ Für Schäden, gleich welcher Art, die einem Vereinsmitglied aus der Teilnahme a
 
 Die vorstehende Satzung wurde von der außerordentlichen Mitgliederversammlung am 03.09.2021 genehmigt.
 
-Unzenberg im September 2021
-
-<!--EndFragment-->
+_Stand: September 2021_
