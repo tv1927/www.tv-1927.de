@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Ober Kostenz und Unzenberg gehen zusammen "
+title: "Neue Spielergemeinschaft mit Ober Kostenz "
 startdate: 2025-06-13T10:34:23.678Z
 publishdate: 2025-06-13T10:34:23.687Z
 unpublishdate: 2025-09-01T10:34:23.691Z
