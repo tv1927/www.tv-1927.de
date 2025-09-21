@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Traditioneller Wandertag am Freitag, 03.10.2025
-startdate: 2025-09-21T20:30:59.938Z
+startdate: 2025-10-03T20:30:59.938Z
 publishdate: 2025-09-21T20:30:59.957Z
 unpublishdate: 2025-10-04T20:30:59.975Z
 description: Liebe Vereinsmitglieder, Freunde und Unterstützer!
