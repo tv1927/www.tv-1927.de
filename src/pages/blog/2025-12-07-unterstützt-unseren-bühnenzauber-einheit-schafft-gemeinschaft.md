@@ -6,7 +6,7 @@ publishdate: 2025-12-06T23:00:21.212Z
 unpublishdate: 2026-03-30T22:00:09.098Z
 description: Spendenaufruf Unterstützt unseren Bühnenzauber - Einheit schafft Gemeinschaft
 featuredpost: true
-featuredimage: /img/taenzerinnen.png
+featuredimage: /img/donation-button-de.png
 tags:
   - Tanzen
   - Tanzsportabteilung
