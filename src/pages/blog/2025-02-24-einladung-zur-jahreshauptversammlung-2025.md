@@ -1,56 +1,56 @@
 ---
 templateKey: blog-post
-title: Einladung zur Jahreshauptversammlung 2025
-startdate: 2025-03-22T09:08:03.026Z
-publishdate: 2025-02-24T09:08:15.957Z
-unpublishdate: 2025-03-23T09:02:40.579Z
+title: Einladung zur Jahreshauptversammlung 2026
+startdate: 2026-03-04T16:47:17.053Z
+publishdate: 2026-03-04T16:47:50.369Z
+unpublishdate: 2025-03-29T09:02:40.579Z
 description: Die Jahreshauptversammlung des TV Unzenberg / Heinzenbach findet am
-  Samstag, 22. März 2025 um 19.00 Uhr im Sportlerheim in Unzenberg statt
+  Samstag, 28. März 2026 um 19.00 Uhr im Sportlerheim in Unzenberg statt.
 featuredpost: false
 featuredimage: /img/og-image.png
 ---
-### Tagesordnung
+**Tagesordnung:**
 
-1.    Eröffnung und Begrüßung
+1. Begrüßung und Eröffnung
 
-2.    Totenehrung
+2. Totenehrung
 
-3.    Jahresrückblicke
+3. Jahresrückblicke
 
-4.    Jahresberichte (Fußball, Tanzen, Kassenbericht)
+4. Jahresberichte (Tanzen, Fußball, Kassenbericht)
 
-5.    Aussprache zu den Berichten
+5. Aussprache zu den Berichten
 
-6.    Bericht der Kassenprüfer
+6. Bericht der Kassenprüfer
 
-7.    Entlastung des Vorstandes
+7. Entlastung des Vorstandes
 
-8.    Beschlussfassung über vorliegende Anträge (Diese Anträge müssen spätestens 2 Tage vor  der Versammlung bei dem 1. Vorsitzenden vorliegen)
+8. Beschlussfassung über vorliegende Anträge
 
-9.    Bestimmung eines/einer Wahlleiter/in
+(Diese Anträge müssen spätestens 2 Tage vor der Versammlung bei dem
 
-10.    Vorstandswahlen
+1. Vorsitzenden vorliegen.)
 
-10.1 1. Vorsitzende/r 1 Jahr
+9. Bestimmung eines/ einer Wahlleiters/ in
 
-10.2 2. Vorsitzende/r
+10. Vorstandswahlen:
 
-10.3 1. Kassenwart 
+10.1. 1. Vorsitzende/r
 
-10.4 Beisitzer/in (Orga-Team) 
+10.2. 2.Kassenwart/in
 
-10.5 Beisitzer/in (Orga-Team) 
+10.3. Geschäftsführer/in
 
-10.6 Beisitzer (Tanzen) 
+10.4. Beisitzer/in (Orga-Team)
 
-10.7 Beisitzer (Hallen- und Gerätewart Turnhalle) 
+10.5. Beisitzer/in AL Fußball
 
-10.8 Beisitzer (Kegeln)
+10.6. Beisitzer (Hallen und Gerätewart Vereinsheim)
 
-11.  Wahl der Kassenprüfer/in
+10.7. Beisitzer (Hallen- und Gerätewart Turnhalle) 1 Jahr
 
-12.  Ehrungen
+11. Wahl Kassenprüfer/ in
 
-13.  Festlegung der Mitgliedsbeiträge
+12. Festlegung der Mitgliedsbeiträge
 
-14.  Verschiedenes
+13. Verschiedenes
