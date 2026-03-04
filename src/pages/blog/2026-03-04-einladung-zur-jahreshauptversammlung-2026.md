@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: Einladung zur Jahreshauptversammlung 2026
-startdate: 2026-03-27T23:00:00.000Z
+startdate: 2026-03-28T17:34:09.224Z
 publishdate: 2026-03-04T17:25:49.492Z
-unpublishdate: 2026-03-04T17:25:49.515Z
+unpublishdate: 2026-03-29T16:25:00.000Z
 description: Die Jahreshauptversammlung des TV Unzenberg / Heinzenbach findet am
   Samstag, 28. März 2026 um 19.00 Uhr im Sportlerheim in Unzenberg statt.
 featuredpost: false
