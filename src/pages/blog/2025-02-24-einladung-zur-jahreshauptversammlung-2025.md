@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Einladung zur Jahreshauptversammlung 2026
-startdate: 2026-03-04T16:47:17.053Z
+startdate: 2026-03-27T23:00:00.000Z
 publishdate: 2026-03-04T16:47:50.369Z
 unpublishdate: 2025-03-29T09:02:40.579Z
 description: Die Jahreshauptversammlung des TV Unzenberg / Heinzenbach findet am
