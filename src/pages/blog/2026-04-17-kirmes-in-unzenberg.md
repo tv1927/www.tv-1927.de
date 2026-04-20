@@ -8,4 +8,6 @@ description: Sonntag, 03.05.2026
 featuredpost: true
 featuredimage: /img/img-20260414-wa0002.jpg
 ---
+![](/img/kirmes2026.jpg)
+
 W﻿ir freuen uns auf euren Besuch!
