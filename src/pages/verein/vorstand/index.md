@@ -7,7 +7,7 @@ title: Der Vorstand
 
 G﻿ünter Schumann  
 
-55483 Heinzenbach
+
 
 ### 2. Vorsitzender
 
