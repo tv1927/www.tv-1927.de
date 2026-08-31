@@ -7,8 +7,6 @@ title: Der Vorstand
 
 G﻿ünter Schumann  
 
-
-
 ### 2. Vorsitzender
 
 Pascal Klein
@@ -53,4 +51,4 @@ P﻿atrick Kaspar
 
 Lisa Schmitt
 
-*Stand: März 2026*
+*Stand:  März 2026*
