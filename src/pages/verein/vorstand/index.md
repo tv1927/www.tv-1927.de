@@ -35,7 +35,7 @@ Johannes Vischer
 
 ### Beisitzer (Orga-Team)
 
-P﻿atrick Kaspar
+M﻿arcel Klein 
 
 ### Beisitzer (Hallen-/Gerätewart Turnhalle)
 
@@ -47,12 +47,10 @@ Christian Klein
 
 ### Beisitzer (Fußball)
 
-Marcel Klein
+P﻿atrick Kaspar
 
 ### Beisitzer (Turnen & Tanz)
 
 Lisa Schmitt
 
-
-
-_Stand: März 2025_
+*Stand: März 2026*
