@@ -5,7 +5,7 @@ title: Der Vorstand
 ---
 ### 1. Vorsitzender
 
-G﻿ünter Schumann  Ringstr. 5   
+G﻿ünter Schumann  
 
 55483 Heinzenbach
 
