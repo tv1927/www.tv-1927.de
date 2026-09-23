@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Traditioneller Wandertag am Samstag, 03.10.2026
-startdate: 2026-09-23T06:33:11.173Z
+startdate: 2026-10-03T06:33:11.173Z
 publishdate: 2026-09-23T06:33:13.526Z
 unpublishdate: 2026-10-04T06:33:16.667Z
 description: Liebe Vereinsmitglieder, Freunde und Unterstützer!
