@@ -1,12 +1,12 @@
 ---
 templateKey: blog-post
-title: Traditioneller Wandertag am Freitag, 03.10.2025
-startdate: 2025-10-03T20:30:59.938Z
-publishdate: 2025-09-21T20:30:59.957Z
-unpublishdate: 2025-10-04T20:30:59.975Z
+title: Traditioneller Wandertag am Samstag, 03.10.2026
+startdate: 2026-09-23T06:33:11.173Z
+publishdate: 2026-09-23T06:33:13.526Z
+unpublishdate: 2026-10-04T06:33:16.667Z
 description: Liebe Vereinsmitglieder, Freunde und Unterstützer!
 featuredpost: false
-featuredimage: /img/2017-10-03-PHOTO-00000211.jpg
+featuredimage: /img/23791.jpg
 ---
 A﻿uf geht`s zur **Wanderung** mit **Treffpunkt um 09.30 Uhr** an der **Turnhalle in Unzenberg**
 
