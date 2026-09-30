@@ -55,4 +55,4 @@ P﻿atrick Kaspar
 
 Lisa Schmitt
 
-*Stand:  März 2026*
+*Stand:  September 2026*
