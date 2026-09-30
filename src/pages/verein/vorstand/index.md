@@ -43,6 +43,10 @@ V﻿akant  zur Zeit nicht besetzt
 
 Christian Klein
 
+### Beisitzer (Darts)
+
+Marvin Stelkyte
+
 ### Beisitzer (Fußball)
 
 P﻿atrick Kaspar
