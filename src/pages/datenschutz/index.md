@@ -47,13 +47,13 @@ Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitg
 
 TV Unzenberg / Heinzenbach e.V.
 
-Hauptstrasse 22
+Ringstr. 5
 
-55483 Unzenberg
+55483 Heinzenbach
 
 Deutschland
 
-E-Mail: rilanasteinborn@gmx.de
+E-Mail: guenter.schumann@gmx.de
 
 Website: tv-1927.de
 
