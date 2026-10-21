@@ -8,4 +8,6 @@ description: Samstag 29.05.2027 im Festzelt/ Sportplatz in Unzenberg
 featuredpost: true
 featuredimage: /img/img-20261020-wa0010.jpg
 ---
+Samstag 29.05.2027 im Festzelt/ Sportplatz in Unzenberg
+
 W﻿ir Freuen uns auf euer kommen.
